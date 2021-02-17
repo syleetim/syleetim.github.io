@@ -131,6 +131,8 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+#added for google
+  - jekyll-sitemap
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
