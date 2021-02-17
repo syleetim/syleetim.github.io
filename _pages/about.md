@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.qmul.ac.uk/sef">School of Economics and Finance</a>, <a href="https://www.qmul.ac.uk">Queen Mary University of London</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: malawi_pic.jpg
+#  address: 
+#   <p>GC 4.09</p>
+#   <p>Mile End Road</p>
+#   <p>E1 4NS London, UK</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I' a'm a macroeconomist specializing in economic inequality and development. I'm also interested in the macroecnomic implications of education and human capital formation, especially in the context of inequality and mobility.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Recently I spent a lot of time trying to understand how the Covid-19 pandemic will affect economic inequality.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+***
+
+<!-- 
+[Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"}  [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}
+ -->
