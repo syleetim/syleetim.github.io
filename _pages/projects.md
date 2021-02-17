@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: in-progress
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: cool stuff, but not much to show yet!
 nav: true
 ---
 

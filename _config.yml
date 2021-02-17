@@ -67,7 +67,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: Random Rambles  # your blog must have a name for it to show up in the nav bar
-blog_description: Miscellaneous Notes for You & Me
+blog_description: Miscellaneous Notes for You & Me...Coming soon or never.
 permalink: /blog/:year/:title/
 
 # Pagination
