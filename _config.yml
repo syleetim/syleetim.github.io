@@ -66,7 +66,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Random Rambles  # your blog must have a name for it to show up in the nav bar
+#blog_name: Random Rambles  # your blog must have a name for it to show up in the nav bar
 blog_description: Miscellaneous Notes for You & Me...Coming soon or never.
 permalink: /blog/:year/:title/
 
@@ -75,7 +75,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: syleetim # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -149,6 +149,11 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+
+#  sort_by: year, month
+#  order: decending, decending
+#  group_by: type, year
+#  type_order: [article, techreport]
   
   replace_strings: true
   join_strings: true

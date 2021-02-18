@@ -23,7 +23,7 @@ updated: yes
 
 keywords: R Markdown, academic CV, template
 
-bibliography: ../_bibliography/papers.bib
+bibliography: ../../../_bibliography/papers.bib
 biblio-style: apa
 biblio-title: Refereed
 
