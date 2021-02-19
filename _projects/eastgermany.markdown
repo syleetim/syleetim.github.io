@@ -6,29 +6,33 @@ img: /assets/img/berlin_vir_small.jpg
 importance: 1
 ---
 
-[Wolfgang Dauth](https://sites.google.com/site/dauthecon/), [Sebastian Findeisen](https://sebastian-findeisen.com/), [Tommaso Porzio](https://sites.google.com/view/tommaso-porzio/home) and I have been cranking out German social security records to understand the transforation of the East German labor market. Despite two decades of stagnation, wage growth in the first few years after reunification was spectacular:
+[Wolfgang Dauth](https://sites.google.com/site/dauthecon/), [Sebastian Findeisen](https://sebastian-findeisen.com/), [Tommaso Porzio](https://sites.google.com/view/tommaso-porzio/home) and I have been cranking out German social security records to understand the transformation of the East German labor market. Despite two decades of stagnation, wage growth in the first few years after reunification was spectacular:
 
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage1992.png' | relative_url }}" alt="" title="German Wage Growth 1992"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage1992.png' | relative_url }}" alt="" title="German Wages 1992" />
+        <figcaption class="figure-caption text-center">1992</figcaption>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage1995.png' | relative_url }}" alt="" title="German Wage Growth 1995"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage1995.png' | relative_url }}" alt="" title="German Wages 1995"/>
+        <figcaption class="figure-caption text-center">1995</figcaption>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage2000.png' | relative_url }}" alt="" title="German Wage Growth 2000"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage2000.png' | relative_url }}" alt="" title="German Wages 2000"/>
+        <figcaption class="figure-caption text-center">2000</figcaption>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage2013.png' | relative_url }}" alt="" title="German Wage Growth 2013"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/wage2013.png' | relative_url }}" alt="" title="German Wages 2013"/>
+        <figcaption class="figure-caption text-center">2013</figcaption>
     </div>
 </div>
 <div class="caption">
-    Average wage growth in Germany. White is average, blue is less, red is more.
+    Average wages in Germany. White is average, blue is less, red is more.
 </div>
 
 The popular conception is that East Germans gained mostly from migrating West, but the patterns are clear that most of the growth came from **within** East (robust to painstaking checks). Another widespread conception is that East Germany was supposed to continue to grow to West German levels (they went from less than half to about two thirds in 5 years, then got stuck there), so the last two decades of stagnation mean something is going wrong.
 
-We instead posit that perhaps, slow growth is the natural outcome. Then the question becomes, why did wages grow so rapidly in the beginning?
+But maybe slow growth is the natural outcome. Then the question becomes, why did wages grow so rapidly in the beginning?
 
 <hr>
 
@@ -39,15 +43,19 @@ How did we come to this conclusion? Well, the first few years post-reunification
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/move1992.png' | relative_url }}" alt="" title="Job-to-Job Switches 1992"/>
+        <figcaption class="figure-caption text-center">1992</figcaption>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/move1995.png' | relative_url }}" alt="" title="Job-to-Job Switches 1995"/>
+        <figcaption class="figure-caption text-center">1995</figcaption>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/move2000.png' | relative_url }}" alt="" title="Job-to-Job Switches 2000"/>
+        <figcaption class="figure-caption text-center">2000</figcaption>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/germany/move2013.png' | relative_url }}" alt="" title="Job-to-Job Switches 2013"/>
+        <figcaption class="figure-caption text-center">2013</figcaption>
     </div>
 </div>
 <div class="caption">
