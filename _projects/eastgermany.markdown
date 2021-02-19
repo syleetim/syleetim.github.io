@@ -110,7 +110,7 @@ We want to show that reallocation was an outcome of institutional transformation
 
 ## The Cohort-Reallocation Gradient
 
-Take yourself back to 1990 and imagine who is more likely to switch jobs, or to get fired and forced find a new job---the old man who worked in a communist factory for decades, or the 20 year-old who just started a new career in a new Germany? The answer is clear in the data:
+Take yourself back to 1990 and imagine who is more likely to switch jobs, or to get fired and forced to find a new job---the old man who worked in a communist factory for decades, or the 20 year-old who just started a new career in a new Germany? The answer is clear in the data:
 
 <div class="row">
     <div class="col-sm mt mt-md-0">
