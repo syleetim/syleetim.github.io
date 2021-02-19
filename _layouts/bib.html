@@ -42,24 +42,29 @@
               {{author.last}}, {{author.first}}
             {% endif %}
           {% else %}
-            {% unless forloop.last %}
+            {% unless forloop.first %}
+              {% if forloop.last %}
+                and
+              {% else %}
+                ,
+              {% endif %}
               {% if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>,
+                <em>{{author.first}} {{author.last}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
+                  <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
                 {% else %}
-                  {{author.last}}, {{author.first}},
+                  {{author.first}} {{author.last}}
                 {% endif %}
               {% endif %}
             {% else %}
               {% if author_is_self %}
-                and <em>{{author.last}}, {{author.first}}</em>
+                <em>{{author.last}}, {{author.first}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  and <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
+                  <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
                 {% else %}
-                  and {{author.last}}, {{author.first}}
+                  {{author.last}}, {{author.first}}
                 {% endif %}
               {% endif %}
             {% endunless %}
@@ -70,10 +75,14 @@
       <div class="periodical">
       {% if entry.type == "article" %}
         <em>{{entry.journal}}</em>
-      {% elsif entry.type == "techreport" %}
-        <em>{{entry.institution}}{{entry.type}}{{entry.number}}</em>
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
+      {% elsif entry.type == "techreport" %}
+        <em>{{entry.acro}} {{entry.series}}
+        {% if entry.number %}
+          {{entry.number}},
+        {% endif %}
+        </em>
       {% endif %}
       {% if entry.year %}
         {{entry.year}}
