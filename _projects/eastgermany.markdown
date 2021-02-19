@@ -36,7 +36,7 @@ But maybe slow growth is the natural outcome. Then the question becomes, why did
 
 <hr>
 
-We posit that, in a setting where West institutions were almost perfectly superimposed on the East, labor market adjustment seemed to have followed immediately---despite other fundamental differences that may exist between East and West German workers and firms (which is probably why they stopped growing). 
+We posit that, in a setting where West institutions were almost perfectly superimposed on the East, labor market adjustment seems to have followed immediately---despite other fundamental differences that may exist between East and West German workers and firms (which is probably why they stopped growing). 
 
 How did we come to this conclusion? Well, the first few years post-reunification also involved a lot of workers switching jobs...
 
@@ -87,9 +87,9 @@ $$
     {\sum_j\left(N_{j,t}+N_{j,t+1}\right)}, 
 $$
 
-where $$N_j$$ is the employment size of firm $$j$$, $$\mathcal{I}$$ is the set of incumbent firms (that are in existence in both $$t$$ and $$t+1$$), and $$\mathcal{N}_t$$ the set of firms in existence only in year $$t$$.
+where $$N_j$$ is the employment size of firm $$j$$, $$\mathcal{I}$$ is the set of incumbent firms (that are in existence in both $$t$$ and $$t+1$$), and $$\mathcal{N}_t$$ the set of firms in existence only in year $$t$$. So job reallocation captures the following: Among all jobs in the economy, how many involved a change in firm size, or firm entry or exit? 
 
-So job reallocation captures the following. Among all job switches in the economy from one period to the next, how many involved a change in firm size, or firm entry or exit? Then we can also define **excess worker reallocation** as
+Then we can also define **excess worker reallocation** as
 
 $$
     EWR_t = \frac{
@@ -98,11 +98,11 @@ $$
     {\min\{N_{j,t},N_{j,t+1}\}}.
 $$
 
-where $$H_t$$ and $$F_t$$ are the total number of hires and fires, respectively. Think of it like this. Among all hires and fires in the economy, how many workers were swapped without involving a change in firm size?
+where $$H_t$$ and $$F_t$$ are the total number of hires and fires, respectively. Think of it like this: Among all hires and fires in the economy, how many workers were swapped without involving a change in firm size?
 
 <hr>
 
-You might say, those are just time series, and wage growth and reallocation are spuriously correlated. Or, higher productivity injected from the West just incentivized firms and workers to reallocate more.
+You might say, those are just time series, and wage growth and reallocation are spuriously correlated. Or, higher productivity and/or union regulations injected from the West just incentivized firms and workers to reallocate more.
 
 We want to show that reallocation was an outcome of institutional transformation, and must surely have contributed to wage growth. 
 
