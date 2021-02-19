@@ -89,7 +89,7 @@ $$
 
 where $$N_j$$ is the employment size of firm $$j$$, $$\mathcal{I}$$ is the set of incumbent firms (that are in existence in both $$t$$ and $$t+1$$), and $$\mathcal{N}_t$$ the set of firms in existence only in year $$t$$.
 
-So job reallocation captures the following. Among all jobs in the economy from one period to the next, how many involved a change in firm size, or firm entry or exit? Then we can define **excess worker reallocation**---worker swaps across firms that didn't involve a change in size---as
+So job reallocation captures the following. Among all job switches in the economy from one period to the next, how many involved a change in firm size, or firm entry or exit? Then we can also define **excess worker reallocation** as
 
 $$
     EWR_t = \frac{
@@ -98,9 +98,7 @@ $$
     {\min\{N_{j,t},N_{j,t+1}\}}.
 $$
 
-where $$H_t$$ and $$F_t$$ are the total number of hires and fires, respectively.
-
-Think of it like this. Among all hires and fires in the economy, how many workers were swapped without involving a change in firm size?
+where $$H_t$$ and $$F_t$$ are the total number of hires and fires, respectively. Think of it like this. Among all hires and fires in the economy, how many workers were swapped without involving a change in firm size?
 
 <hr>
 
