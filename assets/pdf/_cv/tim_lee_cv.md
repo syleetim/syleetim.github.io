@@ -390,7 +390,7 @@ CEPR ESSIM (*Tarragona*)
 # MEDIA
 ### Inequality of Fear and Self-Quarantine: Is There a Trade-off between GDP and Public Health?
 - featured coverage in [Academic Times](http://https://academictimes.com/south-korean-style-covid-19-response-wouldve-saved-65000-lives-in-uk/)
-- featured coverage Korea: 
+- featured coverage in Korea: 
 [Asia Business Daily](https://cm.asiae.co.kr/article/2020050810552323359?fbclid=IwAR1Qg2b7k0ekU3ncH9FR3q75KUmQLjDhemFkQ7PS2Ui519MLsmtK9G8MnSw), 
 [Money Today](https://news.mt.co.kr/mtview.php?no=2020052510464419624), 
 [Kookmin Ilbo](http://news.kmib.co.kr/article/view.asp?arcid=0014613230&code=61131111&sid1=i),
@@ -434,7 +434,7 @@ CEPR ESSIM (*Tarragona*)
 - Chiara Bernardi (*Ph.D. expected 2024*)
 - Paula Cesana (*Ph.D. expected 2024*)
 - Ioannis Papadakis (*Ph.D. expected 2023*, secondary advisor)
-- 2 MSc and 2 BSc theses supervised
+- 2 BSc, 2 MSc theses supervised
 
 ## Courses Taught
 - Macroeconomics I (*BA*) 
