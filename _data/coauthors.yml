@@ -28,5 +28,23 @@
 
 "Gancia": 
   - firstname: ["Gino", "G.", "G"]
-    url:  https://crei.cat/people/gancia/
+    url:  https://sites.google.com/view/gino-gancia-qmul/home
+    
+"Findeisen":
+  - firstname: ["Sebastian", "S.", "S"]
+    url:  https://sebastian-findeisen.com/
+    
+"Holter": 
+  - firstname: ["Hans", "H.", "H"]
+    url:  https://sites.google.com/site/hansaholter/
+    
+"Porzio": 
+  - firstname: ["Tommaso", "T.", "T"]
+    url:  https://sites.google.com/view/tommaso-porzio/home
+    
+"Dauth": 
+  - firstname: ["Wolfgang", "W.", "W"]
+    url:  https://sites.google.com/site/dauthecon/
+    
+
 
