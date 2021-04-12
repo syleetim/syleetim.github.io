@@ -72,6 +72,12 @@ urlcolor: blue
 
 # RESEARCH
 ## Journal Articles
+1. **COVID-19 Doesn't Need Lockdowns to Destroy Jobs: The Effect of Local Outbreaks in Korea**
+\hfill
+with Sangmin Aum and Yongseok Shin
+\newline
+*Labour Economics*, accepted Apr 2021.
+
 1. **Inequality of Fear and Self-Quarantine: Is There a Trade-off between GDP and Public Health?**
 \hfill
 with Sangmin Aum and Yongseok Shin
@@ -128,14 +134,6 @@ with Sangmin Aum and Yongseok Shin
 \newline
 *NBER* w27908, *CEPR* dp15332, 2020.
 
-1. **COVID-19 Doesn't Need Lockdowns to Destroy Jobs: The Effect of Local Outbreaks in Korea**
-\hfill
-with Sangmin Aum and Yongseok Shin
-\newline
-*NBER* w27264, *CEPR* dp14822
-\newline
-*Revise & Resubmit, Labour Economics*, 2020.
-
 1. **Horizontal and Vertical Polarization: Task-Specific Technological Change in a Multi-Sector Economy**
 \hfill
 with Yongseok Shin
@@ -189,7 +187,7 @@ with Yongseok Shin and Donghoon Lee
 \newline\null\hfill
 Apr 2018/2020, June/July 2017, Sep 2016, Aug 2015, Aug 2012
 - Seoul National University
-\newline\null\hfill
+\hfill
 Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 - McGill University
 \hfill Apr 2019
@@ -221,149 +219,250 @@ Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 
 # INVITED SEMINAR PRESENTATIONS
 - **2021**: 
-***Mar*** University of Manchester, University of Surrey (*online*)
+<!-- ***Mar*** -->
+University of Manchester, University of Surrey (*online*)
 - **2020**: 
-***Mar*** Carlos III Madrid (*online*)
+<!-- ***Mar*** -->
+Carlos III Madrid (*online*)
 - **2019**:
-***Dec*** University of Edinburgh
-***Nov*** Nazarbayev University
-***Apr*** Insper São Paulo, FGV São Paulo, McGill Univeristy, London Business School
-***Mar*** University of Nottingham
-***Feb*** Banco de Portugal
+<!-- ***Dec*** -->
+ University of Edinburgh
+<!-- ***Nov*** -->
+ Nazarbayev University
+<!-- ***Apr*** -->
+ Insper São Paulo, FGV São Paulo, McGill Univeristy, London Business School
+<!-- ***Mar*** -->
+ University of Nottingham
+<!-- ***Feb*** -->
+ Banco de Portugal
 - **2018**:
-***Dec*** LMU Munich
-***Oct*** NHH Bergen
-***Sep*** University of Oslo
-***May*** Johns Hopkins University
-***Jan*** Stockholm School of Economics, Sciences Po, Queen Mary University of London
+<!-- ***Dec*** -->
+ LMU Munich
+<!-- ***Oct*** -->
+ NHH Bergen
+<!-- ***Sep*** -->
+ University of Oslo
+<!-- ***May*** -->
+ Johns Hopkins University
+<!-- ***Jan*** -->
+ Stockholm School of Economics, Sciences Po, Queen Mary University of London
 - **2017**:
-***Nov*** University of Kent, University of Bristol
-***Oct*** University of Cambridge
-***Aug*** National University of Singapore
-***May*** University of New South Wales, London School of Economics
-***Apr*** University of Amsterdam/Tinbergen
-***Mar*** ESADE
-***Feb*** Lancaster University
+<!-- ***Nov*** -->
+ University of Kent, University of Bristol
+<!-- ***Oct*** -->
+ University of Cambridge
+<!-- ***Aug*** -->
+ National University of Singapore
+<!-- ***May*** -->
+ University of New South Wales, London School of Economics
+<!-- ***Apr*** -->
+ University of Amsterdam/Tinbergen
+<!-- ***Mar*** -->
+ ESADE
+<!-- ***Feb*** -->
+ Lancaster University
 - **2016**:
-***Nov*** École Polytechnique
-***Oct*** University of Oslo, European University Institute, Universitat de Barcelona
-***Apr*** University of Wisconsin-Madison, University of Notre Dame
+<!-- ***Nov*** -->
+ École Polytechnique
+<!-- ***Oct*** -->
+ University of Oslo, European University Institute, Universitat de Barcelona
+<!-- ***Apr*** -->
+ University of Wisconsin-Madison, University of Notre Dame
 - **2015**:
-***Nov*** CORE (Louvain)
-***Oct*** Autonoma Barcelona
-***Sep*** KDI School of Public Policy and Management
-***Jun*** University of Essex
-***May*** MadMac (Joint Carlos III & CEMFI seminar)
-***Mar*** Toulouse School of Economics, University of Essex
-***Feb*** IFS / UCL
+<!-- ***Nov*** -->
+ CORE (Louvain)
+<!-- ***Oct*** -->
+ Autonoma Barcelona
+<!-- ***Sep*** -->
+ KDI School of Public Policy and Management
+<!-- ***Jun*** -->
+ University of Essex
+<!-- ***May*** -->
+ MadMac (Joint Carlos III & CEMFI seminar)
+<!-- ***Mar*** -->
+ Toulouse School of Economics, University of Essex
+<!-- ***Feb*** -->
+ IFS / UCL
 - **2014**:
-***Dec*** University of Cyprus
-***Apr*** Stockholm IIES, Uppsala University
-***Mar*** University of Southampton
-***Jan*** Western University
+<!-- ***Dec*** -->
+ University of Cyprus
+<!-- ***Apr*** -->
+ Stockholm IIES, Uppsala University
+<!-- ***Mar*** -->
+ University of Southampton
+<!-- ***Jan*** -->
+ Western University
 - **2012**:
-***Dec*** University of Konstanz
-***Oct*** University of Bonn (Macro)
-***Aug*** Federal Reserve Bank of Atlanta
-***Jan*** Federal Reserve Bank of St. Louis
+<!-- ***Dec*** -->
+ University of Konstanz
+<!-- ***Oct*** -->
+ University of Bonn (Macro)
+<!-- ***Aug*** -->
+ Federal Reserve Bank of Atlanta
+<!-- ***Jan*** -->
+ Federal Reserve Bank of St. Louis
 - **2011**:
-***Feb*** Samsung Economic Research Institute, Korea Institute for International Economic Policy, University of Mannheim, University of Western Ontario
-***Jan*** Wharton School (Finance Group), Federal Reserve Bank of Richmond
+<!-- ***Feb*** -->
+ Samsung Economic Research Institute, Korea Institute for International Economic Policy, University of Mannheim, University of Western Ontario
+<!-- ***Jan*** -->
+ Wharton School (Finance Group), Federal Reserve Bank of Richmond
 - **2010**:
-***Nov*** Collegio Carlo Alberto
-***Oct*** University of Wisconsin-Madison
+<!-- ***Nov*** -->
+ Collegio Carlo Alberto
+<!-- ***Oct*** -->
+ University of Wisconsin-Madison
 
 # CONFERENCES
 ## Presentations
 - **2021**:
-***Jun*** SED (*Minneapolis, online*), SAET (*online, invited*)
-***Jan*** AEA (*online*)
+<!-- ***Jun*** -->
+SED (*Minneapolis, online*), SAET (*online, invited*)
+<!-- ***Mar*** -->
+ London Macro Workshop (*London, online*)
+<!-- ***Jan*** -->
+ AEA (*online*)
 - **2020**:
-***Aug*** KER International Conference (*Seoul, online*), ES World Congress (*Milan, online*)
+<!-- ***Aug*** -->
+ KER International Conference (*Seoul, online*), ES World Congress (*Milan, online*)
 - **2019**:
-***Dec*** Inequality, Education and Intergenerational Mobility (*Hamburg, invited*)
-***Aug*** KER International Conference (*Seoul, invited*), SNU Policy Forum on Inequality, Development and Reunification (invited*)
-***May*** QMUL-SUFE Workshop
-***Feb*** Transpyrenean Macro Workshop
-***Jan*** AEA (*Atlanta*)
+<!-- ***Dec*** -->
+ Inequality, Education and Intergenerational Mobility (*Hamburg, invited*)
+<!-- ***Aug*** -->
+ KER International Conference (*Seoul, invited*), SNU Policy Forum on Inequality, Development and Reunification (invited*)
+<!-- ***May*** -->
+ QMUL-SUFE Workshop
+<!-- ***Feb*** -->
+ Transpyrenean Macro Workshop
+<!-- ***Jan*** -->
+ AEA (*Atlanta*)
 - **2018**:
-***Dec*** ESWM Europe (*Napoli*)
-***Jun*** SED (*Mexico City*), SAET (*Taipei, invited*)
-***Mar*** Transpyrenean Macro Workshop
-***Feb*** 3rd GRIPS-Keio Macroeconomics and Policy Workshop (*invited*)
-***Jan*** 2nd Swiss Macro Workshop (*Sils-Maria, invited*)
+<!-- ***Dec*** -->
+ ESWM Europe (*Napoli*)
+<!-- ***Jun*** -->
+ SED (*Mexico City*), SAET (*Taipei, invited*)
+<!-- ***Mar*** -->
+ Transpyrenean Macro Workshop
+<!-- ***Feb*** -->
+ 3rd GRIPS-Keio Macroeconomics and Policy Workshop (*invited*)
+<!-- ***Jan*** -->
+ 2nd Swiss Macro Workshop (*Sils-Maria, invited*)
 - **2017**:
-***Nov*** Carnegie-Rochester-NYU conference on Public Policy (*invited*)
-***Jun*** RIDGE @ IEA World Congress (*Mexico City, invited*), ES Summer Meeting North America (*St. Louis, invited*)
-***Mar*** Transpyrenean Macro Workshop
-***Feb*** NBER EFG (*New York*)
+<!-- ***Nov*** -->
+ Carnegie-Rochester-NYU conference on Public Policy (*invited*)
+<!-- ***Jun*** -->
+ RIDGE @ IEA World Congress (*Mexico City, invited*), ES Summer Meeting North America (*St. Louis, invited*)
+<!-- ***Mar*** -->
+ Transpyrenean Macro Workshop
+<!-- ***Feb*** -->
+ NBER EFG (*New York*)
 - **2016**:
-***Sep*** XXXI Jornadas de Economía Industrial, (*Palma de Mallorca, invited*)
-***Aug*** EEA (*Geneva*)
-***Jul*** Minnesota Workshop in Macroeconomic Theory
-***Jun*** SED (*Toulouse*), GTD Taipei
-***Mar*** Transpyrenean Macro Workshop
-***Jan*** AEA (*San Francisco*)
+<!-- ***Sep*** -->
+ XXXI Jornadas de Economía Industrial, (*Palma de Mallorca, invited*)
+<!-- ***Aug*** -->
+ EEA (*Geneva*)
+<!-- ***Jul*** -->
+ Minnesota Workshop in Macroeconomic Theory
+<!-- ***Jun*** -->
+ SED (*Toulouse*), GTD Taipei
+<!-- ***Mar*** -->
+ Transpyrenean Macro Workshop
+<!-- ***Jan*** -->
+ AEA (*San Francisco*)
 - **2015**: 
-***Aug*** EEA (*Mannheim*), ES World Congress (*Montreal*)
-***Jul*** IGC Growth Workshop (*Addis Ababa, invited*), 13th International Conference on the Ethiopian Economy
-***Jun*** Macroeconomic Implications of Firm-Labor Heterogeneity (*Barcelona Summer Forum*), Family Economics Workshop (*Barcelona Summer Forum*)
-***Jan*** AEA (*Boston*)
+<!-- ***Aug*** -->
+ EEA (*Mannheim*), ES World Congress (*Montreal*)
+<!-- ***Jul*** -->
+ IGC Growth Workshop (*Addis Ababa, invited*), 13th International Conference on the Ethiopian Economy
+<!-- ***Jun*** -->
+ Macroeconomic Implications of Firm-Labor Heterogeneity (*Barcelona Summer Forum*), Family Economics Workshop (*Barcelona Summer Forum*)
+<!-- ***Jan*** -->
+ AEA (*Boston*)
 - **2014**:
-***Dec*** ESWM Europe (*Madrid*)
-***Nov*** ASSET (*Aix-en-Provence*)
-***Oct*** Tax and the Aggregate Economy (*ASU, invited*), Normative Ethics and Welfare Economics (*BFI, invited*)
-***Sep*** The economics of study choices (*Zurich*)
-***Jun*** Economic Inequality, Labor Markets and International Trade (*CEPR, Ascona*)
-***Jan*** AEA (*Philadelphia*)
+<!-- ***Dec*** -->
+ ESWM Europe (*Madrid*)
+<!-- ***Nov*** -->
+ ASSET (*Aix-en-Provence*)
+<!-- ***Oct*** -->
+ Tax and the Aggregate Economy (*ASU, invited*), Normative Ethics and Welfare Economics (*BFI, invited*)
+<!-- ***Sep*** -->
+ The economics of study choices (*Zurich*)
+<!-- ***Jun*** -->
+ Economic Inequality, Labor Markets and International Trade (*CEPR, Ascona*)
+<!-- ***Jan*** -->
+ AEA (*Philadelphia*)
 - **2013**:
-***Sep*** Frankfurt-Mannheim Macro Workshop
-***Jun*** Financial Frictions and the Real Economy (*DFG*), Family Economics Workshop (*Barcelona Summer Forum*)
-***May*** CEPR ESSIM (*Izmir*)
+<!-- ***Sep*** -->
+ Frankfurt-Mannheim Macro Workshop
+<!-- ***Jun*** -->
+ Financial Frictions and the Real Economy (*DFG*), Family Economics Workshop (*Barcelona Summer Forum*)
+<!-- ***May*** -->
+ CEPR ESSIM (*Izmir*)
 - **2012**:
-***Oct*** Vienna Macro Workshop, Cologne Workshop on Macroeconomics
-***Jun*** SED (*Cyprus*), Mannheim-Frankfurt Macro Workshop
-***Jan*** AEA (*Chicago*)
+<!-- ***Oct*** -->
+ Vienna Macro Workshop, Cologne Workshop on Macroeconomics
+<!-- ***Jun*** -->
+ SED (*Cyprus*), Mannheim-Frankfurt Macro Workshop
+<!-- ***Jan*** -->
+ AEA (*Chicago*)
 - **2011**:
-***Nov*** Micro and Macro Perspectives on the Aggregate Labor Market (*NBER, Aarhus*)
-***Aug*** ES Asian Meeting (*Seoul*)
-***Apr*** RES (*Royal Holloway*)
-***Mar*** MEA (*St. Louis*)
+<!-- ***Nov*** -->
+ Micro and Macro Perspectives on the Aggregate Labor Market (*NBER, Aarhus*)
+<!-- ***Aug*** -->
+ ES Asian Meeting (*Seoul*)
+<!-- ***Apr*** -->
+ RES (*Royal Holloway*)
+<!-- ***Mar*** -->
+ MEA (*St. Louis*)
 - **2010**:
-***Oct*** ASSET (*Alicante*)
-***Mar*** SSSA (*Houston*), MEA (*Evanston*)
+<!-- ***Oct*** -->
+ ASSET (*Alicante*)
+<!-- ***Mar*** -->
+ SSSA (*Houston*), MEA (*Evanston*)
 
 ## Discussions
 - **2021**:
-***Jan*** AEA (*online*)
+<!-- ***Jan*** -->
+ AEA (*online*)
 - **2020**:
-***Oct*** Pandemics and Inequality (*FRB St. Louis*)
+<!-- ***Oct*** -->
+ Pandemics and Inequality (*FRB St. Louis*)
 - **2019**:
-***Nov*** CEPR MG
-***May*** QMUL Ph.D. Workhop
-***Jan*** AEA (*Atlanta*)
+<!-- ***Nov*** -->
+ CEPR MG
+<!-- ***May*** -->
+ QMUL Ph.D. Workhop
+<!-- ***Jan*** -->
+ AEA (*Atlanta*)
 - **2018**:
-***Dec*** ECB/CEPR Labour Market Workshop (*Frankfurt*)
-***Nov*** CEPR MG
-***May*** Mannheim Workshop in Quantitative Macroeconomics
+<!-- ***Dec*** -->
+ ECB/CEPR Labour Market Workshop (*Frankfurt*)
+<!-- ***Nov*** -->
+ CEPR MG
+<!-- ***May*** -->
+ Mannheim Workshop in Quantitative Macroeconomics
 - **2017**:
-***May***
+<!-- ***May*** -->
 CEPR ESSIM (*Tarragona*)
 - **2015**:
-***May*** MaCCi IO Day
+<!-- ***May*** -->
+ MaCCi IO Day
 - **2014**:
-***Sep*** Frankfurt-Mannheim Macro Workshop
+<!-- ***Sep*** -->
+ Frankfurt-Mannheim Macro Workshop
 - **2012**:
-***Jun*** IREBS Conference on Real Estate Economics and Finance (*Regensburg*)
+<!-- ***Jun*** -->
+ IREBS Conference on Real Estate Economics and Finance (*Regensburg*)
 - **2011**:
-***Mar*** MEA (*St. Louis*)
+<!-- ***Mar*** -->
+ MEA (*St. Louis*)
 - **2010**:
-***Mar*** SSSA (*Houston*), MEA (*Evanston*)
+<!-- ***Mar*** -->
+ SSSA (*Houston*), MEA (*Evanston*)
 
 
 # PROFESSIONAL SERVICES
 ## Journal Referee:
-- International Economic Review, American Economic Review: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, Review of Economic Dynamics, Review of Economic Studies, American Economic Journal: Macroeconomics, Quantitative Economics, European Economic Review, Quarterly Journal of Economics, Economic Journal, Labour Economics, Journal of Development Economics, Economic Theory, Journal of the European Economic Association, Journal of Economic Theory, American Economic Review, Journal of Human Captial, Econometrica
+- Journal of Public Economics, European Economic Review, International Economic Review, American Economic Review: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, Review of Economic Dynamics, Review of Economic Studies, American Economic Journal: Macroeconomics, Quantitative Economics, Quarterly Journal of Economics, Economic Journal, Labour Economics, Journal of Development Economics, Economic Theory, Journal of the European Economic Association, Journal of Economic Theory, American Economic Review, Journal of Human Captial, Econometrica
 
 ## Grant Referee:
 - ISRF, SSHRC, Leverhulme

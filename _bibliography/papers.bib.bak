@@ -1,9 +1,8 @@
 % Encoding: UTF-8
-
 @Article{AumLeeShin2020a,
   author        = {Aum, Sangmin and Lee, Sang Yoon (Tim) and Shin, Yongseok},
   title         = {COVID-19 Doesn't Need Lockdowns to Destroy Jobs: The Effect of Local Outbreaks in Korea},
-  journal		= {Labour Economics},
+  journal		= {Labour Economics}
   year          = {2021},
   volume        = {accepted},
   __markedentry = {[sylee:6]},
@@ -15,7 +14,7 @@
 }
 
 @Article{AumLeeShin2021,
-  author        = {Aum, Sangmin and Lee, Sang Yoon (Tim) and Shin, Yongseok},
+  author        = {Sangmin Aum and Sang Yoon (Tim) Lee and Yongseok Shin},
   title         = {Inequality of fear and self-quarantine: Is there a trade-off between GDP and public health?},
   journal       = {Journal of Public Economics},
   year          = {2021},
@@ -70,7 +69,7 @@
 }
 
 @Article{Lee2019,
-  author        = {Lee, Sang Yoon (Tim)},
+  author        = {Sang Yoon (Tim) Lee},
   title         = {{Entrepreneurs, managers and inequality}},
   journal       = {Review of Economic Dynamics},
   year          = {2019},
@@ -105,7 +104,7 @@
 }
 
 @Article{AumLeeShin2018,
-  author        = {Aum, Sangmin and Lee, Sang Yoon (Tim) and Shin, Yongseok},
+  author        = {Sangmin Aum and Sang Yoon (Tim) Lee and Yongseok Shin},
   title         = {Computerizing industries and routinizing jobs: Explaining trends in aggregate productivity},
   journal       = {Journal of Monetary Economics},
   year          = {2018},
@@ -124,7 +123,7 @@
 }
 
 @Article{AumLeeShin2017,
-  author        = {Aum, Sangmin and Lee, Sang Yoon (Tim) and Shin, Yongseok},
+  author        = {Aum, Sangmin and Sang Yoon (Tim) Lee and Yongseok Shin},
   title         = {Industrial and Occupational Employment Changes During the Great Recession},
   journal       = {Federal Reserve Bank of St. Louis Review},
   year          = {2017},
@@ -155,7 +154,7 @@
 }
 
 @TechReport{AumLeeShin2020b,
-  author        = {Aum, Sangmin and Lee, Sang Yoon (Tim) and Shin, Yongseok},
+  author        = {Sangmin Aum and Sang Yoon (Tim) Lee and Yongseok Shin},
   title         = {Who Should Work from Home during a Pandemic? The Wage-Infection Trade-off},
   institution   = {National Bureau of Economic Research},
   year          = {2020},
@@ -170,7 +169,7 @@
 }
 
 @TechReport{LeeRoysSeshadri2018,
-  author        = {Lee, Sang Yoon (Tim) and Roys, Nicolas and Seshadri, Ananth},
+  author        = {Sang Yoon (Tim) Lee and Nicolas Roys and Ananth Seshadri},
   title         = {The Causal Effect of Parents' Education on Children's Earnings},
   year          = {2018},
   __markedentry = {[sylee:6]},
@@ -181,7 +180,7 @@
 }
 
 @TechReport{LeeRoysSeshadri2018a,
-  author        = {Lee, Sang Yoon (Tim) and Roys, Nicolas and Seshadri, Ananth},
+  author        = {Sang Yoon (Tim) Lee and Nicolas Roys and Ananth Seshadri},
   title         = {Appendix for: The Causal Effect of Parents' Education on Children's Earnings},
   year          = {2018},
   __markedentry = {[sylee:6]},
@@ -190,7 +189,7 @@
 }
 
 @TechReport{LeeShin2017,
-  author        = {Lee, Sang Yoon (Tim) and Shin, Yongseok},
+  author        = {Sang Yoon (Tim) Lee and Shin, Yongseok},
   title         = {Horizontal and Vertical Polarization: Task-Specific Technological Change in a Multi-Sector Economy},
   institution   = {National Bureau of Economic Research},
   year          = {2017},
