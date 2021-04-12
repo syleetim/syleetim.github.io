@@ -92,7 +92,7 @@
 
     <div class="links">
     {% if entry.abstract %}
-      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
     {% endif %}
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
@@ -132,6 +132,18 @@
       <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
       {% else %}
       <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.appx %}
+      {% if entry.appx contains '://' %}
+      <a href="{{ entry.appx }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Appx</a>
+      {% else %}
+      <a href="{{ entry.appx | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Appx</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.data %}
+      {% if entry.data contains '://' %}
+      <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Data</a>
       {% endif %}
     {% endif %}
     {% if entry.website %}

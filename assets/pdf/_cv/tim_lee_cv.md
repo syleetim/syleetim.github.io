@@ -114,7 +114,7 @@ with Ananth Seshadri
 
 ## Other Publications
 
-7. **Industrial and occupational employment changes during the Great Recession**
+8. **Industrial and occupational employment changes during the Great Recession**
 \newline\null\hfill
 with Sangmin Aum and Yongseok Shin
 \newline
@@ -122,7 +122,7 @@ with Sangmin Aum and Yongseok Shin
 
 ## Working Papers
 
-8. **Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19 Shock**
+9. **Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19 Shock**
 \newline\null\hfill
 with Minsung Park and Yongseok Shin
 \newline
