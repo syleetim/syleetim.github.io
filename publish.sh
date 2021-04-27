@@ -1,3 +1,5 @@
+sudo chown -R "${USER:-$(id -un)}" .
+
 read -p "Message for git commit > " message
 bundle exec jekyll build
 git add .
