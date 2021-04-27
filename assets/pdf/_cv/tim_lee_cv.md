@@ -122,7 +122,13 @@ with Sangmin Aum and Yongseok Shin
 
 ## Working Papers
 
-9. **Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19 Shock**
+9. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
+\hfill
+with Wolfgang Dauth, Sebastian Findeisen and Tommaso Porzio
+\newline
+*mimeo*, 2021.
+
+1. **Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19 Shock**
 \newline\null\hfill
 with Minsung Park and Yongseok Shin
 \newline

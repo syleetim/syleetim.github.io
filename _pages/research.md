@@ -11,6 +11,14 @@ nav: true
 ---
 ***
 <div class="publications">
+<h1 class="year">Economic Integration</h1>
+{% for y in page.years_integration %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}},topic=integration]* %}
+{% endfor %}
+</div>
+***
+<div class="publications">
 <h1 class="year">Covid-19 and Inequality</h1>
 {% for y in page.years_covid %}
   <h2 class="year">{{y}}</h2>
