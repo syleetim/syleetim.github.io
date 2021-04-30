@@ -76,7 +76,7 @@ urlcolor: blue
 \hfill
 with Sangmin Aum and Yongseok Shin
 \newline
-*Labour Economics*, accepted Apr 2021.
+*Labour Economics* 70, Jul 2021.
 
 1. **Inequality of Fear and Self-Quarantine: Is There a Trade-off between GDP and Public Health?**
 \hfill
