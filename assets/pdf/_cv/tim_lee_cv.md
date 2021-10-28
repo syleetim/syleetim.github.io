@@ -114,7 +114,23 @@ with Ananth Seshadri
 
 ## Other Publications
 
-8. **Industrial and occupational employment changes during the Great Recession**
+8. **Who Should Work from Home during a Pandemic? The Wage-Infection Trade-off**
+\newline\null\hfill
+with Sangmin Aum and Yongseok Shin
+\newline
+*Review, Federal Reserve Bank of St. Louis*, forthcoming.
+\newline
+*NBER* w27908, *CEPR* dp15332, 2020.
+
+1. **Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19 Shock**
+\newline\null\hfill
+with Minsung Park and Yongseok Shin
+\newline
+*Review, Federal Reserve Bank of St. Louis*, forthcoming.
+\newline
+*NBER* w28354, 2021.
+
+1. **Industrial and occupational employment changes during the Great Recession**
 \newline\null\hfill
 with Sangmin Aum and Yongseok Shin
 \newline
@@ -122,23 +138,11 @@ with Sangmin Aum and Yongseok Shin
 
 ## Working Papers
 
-9. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
+11. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
 \hfill
 with Wolfgang Dauth, Sebastian Findeisen and Tommaso Porzio
 \newline
 *mimeo*, 2021.
-
-1. **Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19 Shock**
-\newline\null\hfill
-with Minsung Park and Yongseok Shin
-\newline
-*NBER* w28354, 2021.
-
-1. **Who Should Work from Home during a Pandemic? The Wage-Infection Trade-off**
-\newline\null\hfill
-with Sangmin Aum and Yongseok Shin
-\newline
-*NBER* w27908, *CEPR* dp15332, 2020.
 
 1. **Horizontal and Vertical Polarization: Task-Specific Technological Change in a Multi-Sector Economy**
 \hfill
@@ -163,7 +167,7 @@ with Yongseok Shin and Donghoon Lee
 # AWARDS AND GRANTS
 - BA Special Research Grant: COVID-19 
 *£10,000.00, PI*
-\hfill Jan 2015 - Jun 2018
+\hfill Sep 2020 - Feb 2022
 - Maekyung-KAEA Young Economist Award
 \hfill Jan 2019
 - PEDL Major Research Grant 
@@ -224,12 +228,15 @@ Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 
 
 # INVITED SEMINAR PRESENTATIONS
-- **2021**: 
+- **2022**: 
 <!-- ***Mar*** -->
-University of Manchester, University of Surrey (*online*)
-- **2020**: 
+King's College London
+- **2021**: (*all online*)
 <!-- ***Mar*** -->
-Carlos III Madrid (*online*)
+Korea Development Policy Study Association, University of Manchester, University of Surrey
+- **2020**: (*all online*)
+<!-- ***Mar*** -->
+Carlos III Madrid
 - **2019**:
 <!-- ***Dec*** -->
  University of Edinburgh
@@ -321,8 +328,14 @@ Carlos III Madrid (*online*)
 # CONFERENCES
 ## Presentations
 - **2021**:
+<!-- ***Nov*** -->
+CEPR MG (*Rome*), 
+<!-- ***Oct*** -->
+Spanish Macro Network (*Alicante*), 
+<!-- ***Jul*** -->
+ES Australasia (*online*), SED (*Minneapolis, online*),
 <!-- ***Jun*** -->
-SED (*Minneapolis, online*), SAET (*online, invited*)
+SAET (*online, invited*)
 <!-- ***Mar*** -->
  London Macro Workshop (*London, online*)
 <!-- ***Jan*** -->
@@ -427,6 +440,10 @@ SED (*Minneapolis, online*), SAET (*online, invited*)
 
 ## Discussions
 - **2021**:
+<!-- ***Dec*** -->
+Mannheim Firms and Inequality, 
+<!-- ***Oct*** -->
+JEDC Covid-19 (*online*), 
 <!-- ***Jan*** -->
  AEA (*online*)
 - **2020**:
@@ -467,8 +484,11 @@ CEPR ESSIM (*Tarragona*)
 
 
 # PROFESSIONAL SERVICES
+## EEA Minorities in Economics
+- Founding member
+
 ## Journal Referee:
-- Journal of Public Economics, European Economic Review, International Economic Review, American Economic Review: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, Review of Economic Dynamics, Review of Economic Studies, American Economic Journal: Macroeconomics, Quantitative Economics, Quarterly Journal of Economics, Economic Journal, Labour Economics, Journal of Development Economics, Economic Theory, Journal of the European Economic Association, Journal of Economic Theory, American Economic Review, Journal of Human Captial, Econometrica
+- International Economic Review, Economic Modelling, Journal of Public Economics, European Economic Review, American Economic Review: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, Review of Economic Dynamics, Review of Economic Studies, American Economic Journal: Macroeconomics, Quantitative Economics, Quarterly Journal of Economics, Economic Journal, Labour Economics, Journal of Development Economics, Economic Theory, Journal of the European Economic Association, Journal of Economic Theory, American Economic Review, Journal of Human Captial, Econometrica
 
 ## Grant Referee:
 - ISRF, SSHRC, Leverhulme
@@ -486,7 +506,7 @@ CEPR ESSIM (*Tarragona*)
 \hfill Madrid, 2015
 
 ## Recruiting Committee:
-- QMUL 2019-2020, TSE 2017, Mannheim 2012-2015
+- QMUL 2022, 2020, 2019, TSE 2017, Mannheim 2012-2015
 
 ## Seminar Organization:
 - TSE Macro Seminar 2017-2018, Mannheim Internal Seminar 2014
@@ -539,16 +559,22 @@ CEPR ESSIM (*Tarragona*)
 - Chiara Bernardi (*Ph.D. expected 2024*)
 - Paula Cesana (*Ph.D. expected 2024*)
 - Ioannis Papadakis (*Ph.D. expected 2023*, secondary advisor)
-- 2 BSc, 2 MSc theses supervised
+- Giacomo Carlini (*Ph.D. expected 2024*, secondary advisor)
+- 2 BSc, 4 MSc theses supervised
 
 ## Courses Taught
+- Economics of Inequality (*Professional Masters*) 
+\hfill Spring 2022
+- Macroeconomics II (*MSc*) 
+\hfill Spring 2022
 - Macroeconomics I (*BA*) 
-\hfill Spring 2019-2021
+\hfill Spring 2019-2022
 - Advanced Macroeconomics (*MRes*) 
-\hfill Fall 2018-2020
+\hfill Fall 2018-2021
 
 ### Toulouse School of Economics
 ## Supervision
+- Alexandre Gaillard (*Ph.D expected 2022*)
 - Joana Duran Franch (*Postdoc, Columbia Business School, 2021*)
 - 3 MA theses supervised
 
@@ -605,7 +631,7 @@ CEPR ESSIM (*Tarragona*)
 
 # SKILLS
 ## Computers
-- F90/95, C/C++, MPI Parallel Programming; Python, R; Matlab, Stata; LaTeX; Linux O/S
+- F90/95, C/C++, MPI, OpenMP; Python, R Markdown; Matlab, Stata; LaTeX; Linux O/S
 
 ## Languages
 - English (*native*), Korean (*native*), German (*basic B1*), French (*basic B1*)
