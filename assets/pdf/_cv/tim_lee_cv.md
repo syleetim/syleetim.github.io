@@ -113,8 +113,11 @@ with Ananth Seshadri
 *Economic Journal* 128(612):F114--F151, Jul 2018.
 
 ## Other Publications
+8. **The Political Economy of Early COVID-19 Interventions in U.S. States: Comment**
+\newline
+*Journal of Economic Dynamics and Control*, forthcoming.
 
-8. **Who Should Work from Home during a Pandemic? The Wage-Infection Trade-off**
+1. **Who Should Work from Home during a Pandemic? The Wage-Infection Trade-off**
 \newline\null\hfill
 with Sangmin Aum and Yongseok Shin
 \newline
@@ -126,7 +129,7 @@ with Sangmin Aum and Yongseok Shin
 \newline\null\hfill
 with Minsung Park and Yongseok Shin
 \newline
-*Review, Federal Reserve Bank of St. Louis*, forthcoming.
+*Review, Federal Reserve Bank of St. Louis*, 103(4):1--17, Oct 2021.
 \newline
 *NBER* w28354, 2021.
 
@@ -138,7 +141,7 @@ with Sangmin Aum and Yongseok Shin
 
 ## Working Papers
 
-11. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
+12. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
 \hfill
 with Wolfgang Dauth, Sebastian Findeisen and Tommaso Porzio
 \newline
@@ -229,11 +232,11 @@ Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 
 # INVITED SEMINAR PRESENTATIONS
 - **2022**: 
-<!-- ***Mar*** -->
-King's College London
+<!-- ***Jan*** -->
+Korea Development Policy Study Association (*online*), King's College London
 - **2021**: (*all online*)
 <!-- ***Mar*** -->
-Korea Development Policy Study Association, University of Manchester, University of Surrey
+University of Manchester, University of Surrey
 - **2020**: (*all online*)
 <!-- ***Mar*** -->
 Carlos III Madrid
@@ -439,9 +442,10 @@ SAET (*online, invited*)
  SSSA (*Houston*), MEA (*Evanston*)
 
 ## Discussions
+- **2022**:
+<!-- ***Jun*** -->
+Mannheim Firms and Inequality
 - **2021**:
-<!-- ***Dec*** -->
-Mannheim Firms and Inequality, 
 <!-- ***Oct*** -->
 JEDC Covid-19 (*online*), 
 <!-- ***Jan*** -->
