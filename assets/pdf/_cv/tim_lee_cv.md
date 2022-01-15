@@ -77,18 +77,48 @@ urlcolor: blue
 with Sangmin Aum and Yongseok Shin
 \newline
 *Labour Economics* 70, Jul 2021.
+\newline
+*- featured in*
+[The Wall Street Journal](https://www.wsj.com/articles/evidence-grows-of-lockdowns-toll-on-employment-11591389475?mod=hp_lead_pos1) and 
+[Barron's](https://www.barrons.com/articles/u-s-investors-take-note-korea-and-taiwan-show-how-the-virus-restrains-economic-activity-51591123501)
+\newline
+*- featured coverage in* 
+[Folha de S.Paulo](https://www1.folha.uol.com.br/mercado/2020/06/medo-de-contagio-inibe-consumo-mesmo-sem-isolamento-social.shtml)  (*Brazil*) and 
+[National Post](https://nationalpost.com/news/canada/lockdown-or-no-lockdown-study-shows-covid-19s-economic-destruction-followed-a-similar-path-either-way) (*Canada*)
+\newline
+*- featured article in*
+[The Conversation](https://theconversation.com/coronavirus-destroys-jobs-and-worsens-inequality-with-or-without-full-lockdown-140267)
+
 
 1. **Inequality of Fear and Self-Quarantine: Is There a Trade-off between GDP and Public Health?**
 \hfill
 with Sangmin Aum and Yongseok Shin
 \newline
 *Journal of Public Economics* 194, Feb 2021.
+\newline
+*- featured coverage in* 
+[Academic Times](http://https://academictimes.com/south-korean-style-covid-19-response-wouldve-saved-65000-lives-in-uk/)
+\newline
+*- featured coverage in Korea:*
+[Asia Business Daily](https://cm.asiae.co.kr/article/2020050810552323359?fbclid=IwAR1Qg2b7k0ekU3ncH9FR3q75KUmQLjDhemFkQ7PS2Ui519MLsmtK9G8MnSw), 
+[Money Today](https://news.mt.co.kr/mtview.php?no=2020052510464419624), 
+[Kookmin Ilbo](http://news.kmib.co.kr/article/view.asp?arcid=0014613230&code=61131111&sid1=i),
+[Yonhap News](https://www.yna.co.kr/view/AKR20200603145900001)
+
 
 1. **Who is Afraid of Machines?**
 \hfill 
 with Sotiris Blanas and Gino Gancia
 \newline
 *Economic Policy* 34(100): 627--690, Mar 2020.
+\newline
+*- featured coverage in*
+[The Telegraph](https://www.telegraph.co.uk/business/2019/04/15/women-fare-better-men-comes-beating-rise-robots/)
+\newline
+*- featured column in*
+[VoxEU](https://voxeu.org/article/how-different-technologies-affect-different-workers)
+
+
 
 1. **On the Intergenerational Transmission of Economic Status**
 \hfill 
@@ -105,12 +135,20 @@ with Ananth Seshadri
 with Sangmin Aum and Yongseok Shin
 \newline
 *Journal of Monetary Economics* 97:1--21, Aug 2018.
+\newline
+*- featured column in*
+[VoxEU](https://voxeu.org/article/computerisation-routinisation-and-aggregate-productivity)
+
 
 1. **Economic Policy and Equality of Opportunity**
 \hfill 
 with Ananth Seshadri
 \newline
 *Economic Journal* 128(612):F114--F151, Jul 2018.
+\newline
+*- featured column in*
+[LSE Business Review](http://blogs.lse.ac.uk/businessreview/2018/08/22/the-moral-dilemma-around-equality-of-opportunity)
+
 
 ## Other Publications
 8. **The Political Economy of Early COVID-19 Interventions in U.S. States: Comment**
@@ -132,6 +170,11 @@ with Minsung Park and Yongseok Shin
 *Review, Federal Reserve Bank of St. Louis*, 103(4):1--17, Oct 2021.
 \newline
 *NBER* w28354, 2021.
+\newline
+*- featured in* 
+[The Washington Post](https://www.washingtonpost.com/business/2021/01/27/economy-is-getting-even-worse-americans-with-high-school-degrees-or-less-education/?arc404=true),
+[Times Square Investment Journal](https://coveringcompanies.journalism.cuny.edu/2021/05/21/mums-the-word-are-mothers-choosing-to-give-up-their-careers-or-being-booted-out-of-the-labor-force/)
+
 
 1. **Industrial and occupational employment changes during the Great Recession**
 \newline\null\hfill
@@ -140,6 +183,16 @@ with Sangmin Aum and Yongseok Shin
 *Review, Federal Reserve Bank of St. Louis* 99(4):307--317, Oct 2017.
 
 ## Working Papers
+13. **Binding Up the Nation's Wounds: An Economic Analysis of the Korean Reunification**
+\hfill
+with Yongseok Shin
+\newline
+*mimeo*, 2021.
+\newline
+*- research note at* 
+[PEDL](https://pedl.cepr.org/sites/default/files/RN%202356%20LeeShin.pdf)
+
+
 
 12. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
 \hfill
@@ -233,7 +286,7 @@ Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 # INVITED SEMINAR PRESENTATIONS
 - **2022**: 
 <!-- ***Jan*** -->
-Korea Development Policy Study Association (*online*), King's College London
+Korea Development Policy Study Association (*online*), King's College London, UCL
 - **2021**: (*all online*)
 <!-- ***Mar*** -->
 University of Manchester, University of Surrey
@@ -242,89 +295,89 @@ University of Manchester, University of Surrey
 Carlos III Madrid
 - **2019**:
 <!-- ***Dec*** -->
- University of Edinburgh
+ University of Edinburgh,
 <!-- ***Nov*** -->
- Nazarbayev University
+ Nazarbayev University,
 <!-- ***Apr*** -->
- Insper São Paulo, FGV São Paulo, McGill Univeristy, London Business School
+ Insper São Paulo, FGV São Paulo, McGill Univeristy, London Business School,
 <!-- ***Mar*** -->
- University of Nottingham
+ University of Nottingham,
 <!-- ***Feb*** -->
  Banco de Portugal
 - **2018**:
 <!-- ***Dec*** -->
- LMU Munich
+ LMU Munich,
 <!-- ***Oct*** -->
- NHH Bergen
+ NHH Bergen,
 <!-- ***Sep*** -->
- University of Oslo
+ University of Oslo,
 <!-- ***May*** -->
- Johns Hopkins University
+ Johns Hopkins University,
 <!-- ***Jan*** -->
  Stockholm School of Economics, Sciences Po, Queen Mary University of London
 - **2017**:
 <!-- ***Nov*** -->
- University of Kent, University of Bristol
+ University of Kent, University of Bristol,
 <!-- ***Oct*** -->
- University of Cambridge
+ University of Cambridge,
 <!-- ***Aug*** -->
- National University of Singapore
+ National University of Singapore,
 <!-- ***May*** -->
- University of New South Wales, London School of Economics
+ University of New South Wales, London School of Economics,
 <!-- ***Apr*** -->
- University of Amsterdam/Tinbergen
+ University of Amsterdam/Tinbergen,
 <!-- ***Mar*** -->
- ESADE
+ ESADE,
 <!-- ***Feb*** -->
  Lancaster University
 - **2016**:
 <!-- ***Nov*** -->
- École Polytechnique
+ École Polytechnique,
 <!-- ***Oct*** -->
- University of Oslo, European University Institute, Universitat de Barcelona
+ University of Oslo, European University Institute, Universitat de Barcelona,
 <!-- ***Apr*** -->
  University of Wisconsin-Madison, University of Notre Dame
 - **2015**:
 <!-- ***Nov*** -->
- CORE (Louvain)
+ CORE (Louvain),
 <!-- ***Oct*** -->
- Autonoma Barcelona
+ Autonoma Barcelona,
 <!-- ***Sep*** -->
- KDI School of Public Policy and Management
+ KDI School of Public Policy and Management,
 <!-- ***Jun*** -->
- University of Essex
+ University of Essex,
 <!-- ***May*** -->
- MadMac (Joint Carlos III & CEMFI seminar)
+ MadMac (Joint Carlos III & CEMFI seminar),
 <!-- ***Mar*** -->
- Toulouse School of Economics, University of Essex
+ Toulouse School of Economics, University of Essex,
 <!-- ***Feb*** -->
  IFS / UCL
 - **2014**:
 <!-- ***Dec*** -->
- University of Cyprus
+ University of Cyprus,
 <!-- ***Apr*** -->
- Stockholm IIES, Uppsala University
+ Stockholm IIES, Uppsala University,
 <!-- ***Mar*** -->
- University of Southampton
+ University of Southampton,
 <!-- ***Jan*** -->
  Western University
 - **2012**:
 <!-- ***Dec*** -->
- University of Konstanz
+ University of Konstanz,
 <!-- ***Oct*** -->
- University of Bonn (Macro)
+ University of Bonn (Macro),
 <!-- ***Aug*** -->
- Federal Reserve Bank of Atlanta
+ Federal Reserve Bank of Atlanta,
 <!-- ***Jan*** -->
  Federal Reserve Bank of St. Louis
 - **2011**:
 <!-- ***Feb*** -->
- Samsung Economic Research Institute, Korea Institute for International Economic Policy, University of Mannheim, University of Western Ontario
+ Samsung Economic Research Institute, Korea Institute for International Economic Policy, University of Mannheim, University of Western Ontario,
 <!-- ***Jan*** -->
  Wharton School (Finance Group), Federal Reserve Bank of Richmond
 - **2010**:
 <!-- ***Nov*** -->
- Collegio Carlo Alberto
+ Collegio Carlo Alberto,
 <!-- ***Oct*** -->
  University of Wisconsin-Madison
 
@@ -516,39 +569,6 @@ CEPR ESSIM (*Tarragona*)
 - TSE Macro Seminar 2017-2018, Mannheim Internal Seminar 2014
 
 
-# MEDIA
-### Inequality of Fear and Self-Quarantine: Is There a Trade-off between GDP and Public Health?
-- featured coverage in [Academic Times](http://https://academictimes.com/south-korean-style-covid-19-response-wouldve-saved-65000-lives-in-uk/)
-- featured coverage in Korea: 
-[Asia Business Daily](https://cm.asiae.co.kr/article/2020050810552323359?fbclid=IwAR1Qg2b7k0ekU3ncH9FR3q75KUmQLjDhemFkQ7PS2Ui519MLsmtK9G8MnSw), 
-[Money Today](https://news.mt.co.kr/mtview.php?no=2020052510464419624), 
-[Kookmin Ilbo](http://news.kmib.co.kr/article/view.asp?arcid=0014613230&code=61131111&sid1=i),
-[Yonhap News](https://www.yna.co.kr/view/AKR20200603145900001)
-
-### Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19 Shock
-- featured in [The Washington Post](https://www.washingtonpost.com/business/2021/01/27/economy-is-getting-even-worse-americans-with-high-school-degrees-or-less-education/?arc404=true)
-
-### COVID-19 Doesn't Need Lockdowns to Destroy Jobs: The Effect of Local Outbreaks in Korea
-- featured in 
-[The Wall Street Journal](https://www.wsj.com/articles/evidence-grows-of-lockdowns-toll-on-employment-11591389475?mod=hp_lead_pos1) and 
-[Barron's](https://www.barrons.com/articles/u-s-investors-take-note-korea-and-taiwan-show-how-the-virus-restrains-economic-activity-51591123501)
-- featured coverage in 
-[Folha de S.Paulo](https://www1.folha.uol.com.br/mercado/2020/06/medo-de-contagio-inibe-consumo-mesmo-sem-isolamento-social.shtml)  (*Brazil*) and 
-[National Post](https://nationalpost.com/news/canada/lockdown-or-no-lockdown-study-shows-covid-19s-economic-destruction-followed-a-similar-path-either-way) (*Canada*)
-- featured article in 
-[The Conversation](https://theconversation.com/coronavirus-destroys-jobs-and-worsens-inequality-with-or-without-full-lockdown-140267)
-
-### Who is Afraid of Machines?
-- featured coverage in 
-[The Telegraph](https://www.telegraph.co.uk/business/2019/04/15/women-fare-better-men-comes-beating-rise-robots/)
-- featured column in [VoxEU](https://voxeu.org/article/how-different-technologies-affect-different-workers)
-
-### Computerizing Industries and Routinizing Jobs: Explaining Trends in Aggregate Productivity
-- featured column in [VoxEU](https://voxeu.org/article/computerisation-routinisation-and-aggregate-productivity)
-
-### Economic Policy and Equality of Opportunity
-- featured column in 
-[LSE Business Review](http://blogs.lse.ac.uk/businessreview/2018/08/22/the-moral-dilemma-around-equality-of-opportunity)
 
 
 # TEACHING AND OTHER
