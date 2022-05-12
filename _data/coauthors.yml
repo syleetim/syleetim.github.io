@@ -46,5 +46,16 @@
   - firstname: ["Wolfgang", "W.", "W"]
     url:  https://sites.google.com/site/dauthecon/
     
+"Barany": 
+  - firstname: ["Zsofia", "Z.", "Z"]
+    url:  https://sites.google.com/site/zsofiabarany/
+    
+"Gaillard": 
+  - firstname: ["Alexandre", "A.", "A"]
+    url:  https://www.a-gaillard.com/
+    
+"Raute": 
+  - firstname: ["Anna", "A.", "A"]
+    url:  https://annaraute.wordpress.com/
 
 

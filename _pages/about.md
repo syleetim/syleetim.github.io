@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm a macroeconomist specializing in economic inequality and development. I'm also interested in the macroeconomic implications of education and human capital formation, especially how they shape inequality and mobility.
 
-Recently I spent a lot of time trying to understand how the Covid-19 pandemic will affect economic inequality.
+After having spent the last couple of years trying to understand how the Covid-19 pandemic will affect economic inequality, I'm back to studying more general questions...
 
 ***
 

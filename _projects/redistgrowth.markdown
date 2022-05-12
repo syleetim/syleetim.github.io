@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Redistribution and Growth
-description: Did progressive policies lead to economic growth?
+description: [coming soon]
 img:
 redirect:
 importance: 3
 ---
 
+with [Alex Gaillard](https://www.a-gaillard.com/){:target="\_blank"}.

@@ -159,7 +159,7 @@ with Ananth Seshadri
 \newline\null\hfill
 with Sangmin Aum and Yongseok Shin
 \newline
-*Review, Federal Reserve Bank of St. Louis*, forthcoming.
+*Review, Federal Reserve Bank of St. Louis*, 104(2):92--109, Apr 2022.
 \newline
 *NBER* w27908, *CEPR* dp15332, 2020.
 
@@ -285,8 +285,12 @@ Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 
 # INVITED SEMINAR PRESENTATIONS
 - **2022**: 
+<!-- ***Jun*** -->
+UCL, 
+<!-- ***Apr*** -->
+King's College London, 
 <!-- ***Jan*** -->
-Korea Development Policy Study Association (*online*), King's College London, UCL
+Korea Development Policy Study Association (*online*)
 - **2021**: (*all online*)
 <!-- ***Mar*** -->
 University of Manchester, University of Surrey
@@ -383,6 +387,11 @@ Carlos III Madrid
 
 # CONFERENCES
 ## Presentations
+- **2022**:
+<!-- ***Aug*** -->
+SNU Macro Workshop,
+<!-- ***May*** -->
+Bristol Macro Workshop
 - **2021**:
 <!-- ***Nov*** -->
 CEPR MG (*Rome*), 
@@ -496,8 +505,8 @@ SAET (*online, invited*)
 
 ## Discussions
 - **2022**:
-<!-- ***Jun*** -->
-Mannheim Firms and Inequality
+<!-- ***May*** -->
+PHBS Macro and Finance (Oxford) 
 - **2021**:
 <!-- ***Oct*** -->
 JEDC Covid-19 (*online*), 
@@ -545,12 +554,14 @@ CEPR ESSIM (*Tarragona*)
 - Founding member
 
 ## Journal Referee:
-- International Economic Review, Economic Modelling, Journal of Public Economics, European Economic Review, American Economic Review: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, Review of Economic Dynamics, Review of Economic Studies, American Economic Journal: Macroeconomics, Quantitative Economics, Quarterly Journal of Economics, Economic Journal, Labour Economics, Journal of Development Economics, Economic Theory, Journal of the European Economic Association, Journal of Economic Theory, American Economic Review, Journal of Human Captial, Econometrica
+- European Economic Review, International Economic Review, PNAS, Journal of Labor Research, Economic Modelling, Journal of Public Economics, American Economic Review: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, Review of Economic Dynamics, Review of Economic Studies, American Economic Journal: Macroeconomics, Quantitative Economics, Quarterly Journal of Economics, Economic Journal, Labour Economics, Journal of Development Economics, Economic Theory, Journal of the European Economic Association, Journal of Economic Theory, American Economic Review, Journal of Human Captial, Econometrica
 
 ## Grant Referee:
 - ISRF, SSHRC, Leverhulme
 
 ## Conference & Workshop Organiziation:
+- KAEA Macro VSS, *Co-Organizer*
+\hfill 2022
 - E1Macro: QM-QM, *Co-Organizer*
 \hfill London 2019
 - International Workshop on Financing Human Capital, *Co-Organizer*
@@ -573,6 +584,7 @@ CEPR ESSIM (*Tarragona*)
 
 # TEACHING AND OTHER
 ### External Ph.D. examiner
+- Marta Alvaro-Taus (*Surrey 2022*)
 - Chanwoo Kim (*UCL 2020*)
 - Paul Garcia Hinojosa (*Essex 2019*)
 - Tomás Rodríguez Martínez (*Carlos III 2019*)
@@ -582,23 +594,27 @@ CEPR ESSIM (*Tarragona*)
 ## Supervision
 - Chiara Bernardi (*Ph.D. expected 2024*)
 - Paula Cesana (*Ph.D. expected 2024*)
-- Ioannis Papadakis (*Ph.D. expected 2023*, secondary advisor)
 - Giacomo Carlini (*Ph.D. expected 2024*, secondary advisor)
-- 2 BSc, 4 MSc theses supervised
+- Ioannis Papadakis (*Ph.D. expected 2023*, secondary advisor)
+- Iacopo Varotto (*Bank of Spain, 2022*, committee member)
+<!-- ***12.5.2022*** -->
+- 3 BSc, 5 MSc theses supervised
 
 ## Courses Taught
+- Advanced Macroeconomics (*MRes*) 
+\hfill Fall 2018-2022
+- Economics of Inequality (*BA*) 
+\hfill Fall 2022
 - Economics of Inequality (*Professional Masters*) 
 \hfill Spring 2022
 - Macroeconomics II (*MSc*) 
 \hfill Spring 2022
 - Macroeconomics I (*BA*) 
 \hfill Spring 2019-2022
-- Advanced Macroeconomics (*MRes*) 
-\hfill Fall 2018-2021
 
 ### Toulouse School of Economics
 ## Supervision
-- Alexandre Gaillard (*Ph.D expected 2022*)
+- Alexandre Gaillard (*Postdoc, Princeton then Brown, 2022*, secondary advisor)
 - Joana Duran Franch (*Postdoc, Columbia Business School, 2021*)
 - 3 MA theses supervised
 
