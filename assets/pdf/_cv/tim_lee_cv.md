@@ -183,7 +183,7 @@ with Sangmin Aum and Yongseok Shin
 *Review, Federal Reserve Bank of St. Louis* 99(4):307--317, Oct 2017.
 
 ## Working Papers
-13. **Binding Up the Nation's Wounds: An Economic Analysis of the Korean Reunification**
+12. **Binding Up the Nation's Wounds: An Economic Analysis of the Korean Reunification**
 \hfill
 with Yongseok Shin
 \newline
@@ -192,9 +192,7 @@ with Yongseok Shin
 *- research note at* 
 [PEDL](https://pedl.cepr.org/sites/default/files/RN%202356%20LeeShin.pdf)
 
-
-
-12. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
+1. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
 \hfill
 with Wolfgang Dauth, Sebastian Findeisen and Tommaso Porzio
 \newline

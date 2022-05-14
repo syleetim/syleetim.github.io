@@ -7,4 +7,4 @@ redirect:
 importance: 4
 ---
 
-with Ezgi Kurt and [Anna Raute](https://annaraute.wordpress.com/){:target="\_blank"}.
+with Paula Cesana..
