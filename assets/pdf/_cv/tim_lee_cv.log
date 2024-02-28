@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.5)  31 AUG 2021 00:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.5)  16 NOV 2022 09:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -552,33 +552,28 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 604.
+(hyperref)                than one, level fixed on input line 671.
 
-[5]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 703.
-
-[6] 
+[6] [7] 
 AED: lastpage setting LastPage
-[7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 932.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 932.
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 916.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 916.
 (./tim_lee_cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 932.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 932.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 916.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 916.
 Package rerunfilecheck Info: File `tim_lee_cv.out' has not changed.
-(rerunfilecheck)             Checksum: F40659F1CF1EE07C852277DE14C62460;10253.
+(rerunfilecheck)             Checksum: 285A3D66973835026CB1D4AC3184F0E3;7919.
  ) 
 Here is how much of TeX's memory you used:
- 15319 strings out of 483107
- 221981 string characters out of 5964630
- 517116 words of memory out of 5000000
- 29813 multiletter control sequences out of 15000+600000
- 577626 words of font info for 188 fonts, out of 8000000 for 9000
+ 15317 strings out of 483107
+ 221215 string characters out of 5964630
+ 513874 words of memory out of 5000000
+ 29803 multiletter control sequences out of 15000+600000
+ 578474 words of font info for 200 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  41i,11n,71p,1199b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/sylee/.tex
@@ -590,10 +585,10 @@ onts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on tim_lee_cv.pdf (7 pages, 157238 bytes).
+Output written on tim_lee_cv.pdf (8 pages, 157690 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 393 compressed objects within 4 object streams
- 130 named destinations out of 1000 (max. 500000)
- 22961 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 414 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
+ 123 named destinations out of 1000 (max. 500000)
+ 22921 words of extra memory for PDF output out of 24883 (max. 10000000)
 
