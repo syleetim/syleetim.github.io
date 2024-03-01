@@ -20,14 +20,6 @@ nav: true
 </div>
 ***
 <div class="publications">
-<h1 class="year">Covid-19 and Inequality</h1>
-{% for y in page.years_covid %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}},topic=covid]* %}
-{% endfor %}
-</div>
-***
-<div class="publications">
 <h1 class="year">Inequality across Jobs</h1>
 {% for y in page.years_indocc %}
   <h2 class="year">{{y}}</h2>
@@ -40,6 +32,14 @@ nav: true
 {% for y in page.years_hcap %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}},topic=hcap]* %}
+{% endfor %}
+</div>
+***
+<div class="publications">
+<h1 class="year">Covid-19 and Inequality</h1>
+{% for y in page.years_covid %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}},topic=covid]* %}
 {% endfor %}
 </div>
 ***
