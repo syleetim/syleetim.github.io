@@ -12,6 +12,14 @@ nav: true
 ---
 ***
 <div class="publications">
+<h1 class="year">Human Capital and Intergenerational Mobility</h1>
+{% for y in page.years_hcap %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}},topic=hcap]* %}
+{% endfor %}
+</div>
+***
+<div class="publications">
 <h1 class="year">Economic Integration</h1>
 {% for y in page.years_integration %}
   <h2 class="year">{{y}}</h2>
@@ -24,14 +32,6 @@ nav: true
 {% for y in page.years_indocc %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}},topic=indocc]* %}
-{% endfor %}
-</div>
-***
-<div class="publications">
-<h1 class="year">Human Capital and Intergenerational Mobility</h1>
-{% for y in page.years_hcap %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}},topic=hcap]* %}
 {% endfor %}
 </div>
 ***
