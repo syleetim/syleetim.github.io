@@ -194,6 +194,12 @@ with Yongseok Shin
 *- research note at* 
 [PEDL](https://pedl.cepr.org/sites/default/files/RN%202356%20LeeShin.pdf)
 
+1. **The Causal Effect of Parents' Education on Children's Earnings**
+\newline\null\hfill 
+with Nicolas Roys and Ananth Seshadri
+\newline
+*NBER* w32223, 2024.
+
 1. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
 \hfill
 with Wolfgang Dauth, Sebastian Findeisen and Tommaso Porzio
@@ -204,21 +210,13 @@ with Wolfgang Dauth, Sebastian Findeisen and Tommaso Porzio
 \hfill
 with Yongseok Shin
 \newline
-*NBER* w23283
-
-1. **The Causal Effect of Parents' Education on Children's Earnings**
-\newline\null\hfill 
-with Nicolas Roys and Ananth Seshadri
-\newline
-*2nd Revise & Resubmit, American Economic Review*, 2018.
+*NBER* w23283, 2017
 
 1. **The Option Value of Human Capital: Higher Education and Wage Inequality**
 \newline\null\hfill
 with Yongseok Shin and Donghoon Lee
 \newline
-*NBER* w21724
-\newline
-*Revise & Resubmit, Journal of the European Economic Association*, 2017.
+*NBER* w21724, 2017.
 
 # AWARDS AND GRANTS
 - Best Teacher of a Compulsory Module (SEF QMUL)
