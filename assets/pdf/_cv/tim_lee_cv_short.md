@@ -36,6 +36,10 @@ urlcolor: blue
 
 # ACADEMIC EMPLOYMENT AND AFFILIATIONS
 
+## Seoul National University
+ - Visiting Professor
+ \hfill Sep 2024-
+
 ## Queen Mary University of London (QMUL)
  - Reader in Economics 
  \hfill Aug 2018-
@@ -115,7 +119,7 @@ with Ananth Seshadri
 ## Other Publications
 8. **The Political Economy of Early COVID-19 Interventions in U.S. States: Comment**
 \newline
-*Journal of Economic Dynamics and Control*, forthcoming.
+*Journal of Economic Dynamics and Control*, 104, Jul 2022.
 
 1. **Who Should Work from Home during a Pandemic? The Wage-Infection Trade-off**
 \newline\null\hfill
@@ -472,9 +476,11 @@ CEPR ESSIM (*Tarragona*)
 # PROFESSIONAL SERVICES
 ## Co-Director of Graduates Studies
 - QMUL Mres
+\hfill Sep 2022-Sep 2024
 
 ## EEA Minorities in Economics
 - Founding member
+\hfill 2021-2024
 
 ## Journal Referee:
 - QJE, EJ, IER, JEEA, EER, PNAS, Journal of Labor Research, Economic Modelling, JPubE, AER:Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, RED, ReStud, AEJ:Macro, Quantitative Economics, Labour Economics, Journal of Development Economics, Economic Theory, JET, AER, Journal of Human Captial, Econometrica
