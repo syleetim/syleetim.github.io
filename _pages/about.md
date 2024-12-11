@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! Test. I'm a macroeconomist specializing in economic inequality and development. I'm also interested in the macroeconomic implications of education and human capital formation, especially how they shape inequality and mobility.
+Hi! I'm a macroeconomist specializing in economic inequality and development. I'm also interested in the macroeconomic implications of education and human capital formation, especially how they shape inequality and mobility.
 
-After having spent the last couple of years trying to understand how the Covid-19 pandemic will affect economic inequality, I'm back to studying more general questions...
+After having spent the last couple of years trying to understand how the Covid-19 pandemic will affect economic inequality, I'm back to studying more general questions...testing. 
 
 ***
 
