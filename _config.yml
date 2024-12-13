@@ -142,31 +142,31 @@ plugins:
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
-
-  last_name: Lee
-  first_name: [Sang Yoon (Tim), Sang Yoon, Tim, SYT]
-
-  style: chicago-fullnote-bibliography
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-#  sort_by: year, month
-#  order: decending, decending
-#  group_by: type, year
-#  type_order: [article, techreport]
-  
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
+#scholar:
+#
+#  last_name: Lee
+#  first_name: [Sang Yoon (Tim), Sang Yoon, Tim, SYT]
+#
+#  style: chicago-fullnote-bibliography
+#  locale: en
+#
+#  source: /_bibliography/
+#  bibliography: papers.bib
+#  bibliography_template: bib
+#
+##  sort_by: year, month
+##  order: decending, decending
+##  group_by: type, year
+##  type_order: [article, techreport]
+#  
+#  replace_strings: true
+#  join_strings: true
+#
+#  details_dir: bibliography
+#  details_layout: bibtex.html
+#  details_link: Details
+#
+#  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
