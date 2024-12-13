@@ -12,3 +12,5 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'unicode_utils'
 end
+
+gem "webrick", "~> 1.9"
