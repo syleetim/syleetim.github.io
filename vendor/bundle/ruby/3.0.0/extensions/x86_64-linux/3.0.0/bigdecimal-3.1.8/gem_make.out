@@ -1,5 +1,5 @@
 current directory: /home/sylee/Sync/homepage/syleetim.github.io/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20241213-56047-e77btc.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20241216-34413-rtw9f2.rb extconf.rb
 checking for __builtin_clz()... yes
 checking for __builtin_clzl()... yes
 checking for __builtin_clzll()... yes
@@ -42,4 +42,4 @@ linking shared-object bigdecimal.so
 
 current directory: /home/sylee/Sync/homepage/syleetim.github.io/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20241213-56047-zr00mx
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20241216-34413-phjzfr

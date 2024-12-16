@@ -27,6 +27,8 @@ uname -v = #49~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Nov  6 17:42:15 UTC 2
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
 
+PATH: /home/sylee/anaconda3/bin/
+PATH: /home/sylee/openmpi/bin/
 PATH: /home/sylee/.juliaup/bin/
 PATH: /home/sylee/anaconda3/bin/
 PATH: /home/sylee/openmpi/bin/
@@ -48,6 +50,7 @@ PATH: /usr/games/
 PATH: /usr/local/games/
 PATH: /snap/bin/
 PATH: /snap/bin/
+PATH: /usr/local/stata18/
 PATH: /usr/local/stata18/
 
 
