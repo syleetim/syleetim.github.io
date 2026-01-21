@@ -40,6 +40,10 @@ urlcolor: blue
  - Reader in Economics 
  \hfill Aug 2018-
 
+## University College London
+ - MRes Macroeconomics Instructor 
+ \hfill Jan-June 2026
+
 ## Toulouse School of Economics (TSE)
  - Research Associate
  \hfill Aug 2020-
@@ -185,7 +189,15 @@ with Sangmin Aum and Yongseok Shin
 *Review, Federal Reserve Bank of St. Louis* 99(4):307--317, Oct 2017.
 
 ## Working Papers
-12. **Binding Up the Nation's Wounds: An Economic Analysis of the Korean Reunification**
+12. **The Causal Effect of Parents' Education on Children's Earnings**
+\newline\null\hfill 
+with Nicolas Roys and Ananth Seshadri
+\newline
+*NBER* w32223, 2024.
+\newline
+*- R&R at* International Economic Review.
+
+1. **Binding Up the Nation's Wounds: An Economic Analysis of the Korean Reunification**
 \hfill
 with Yongseok Shin
 \newline
@@ -193,12 +205,6 @@ with Yongseok Shin
 \newline
 *- research note at* 
 [PEDL](https://pedl.cepr.org/sites/default/files/RN%202356%20LeeShin.pdf)
-
-1. **The Causal Effect of Parents' Education on Children's Earnings**
-\newline\null\hfill 
-with Nicolas Roys and Ananth Seshadri
-\newline
-*NBER* w32223, 2024.
 
 1. **Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany**
 \hfill
@@ -217,6 +223,18 @@ with Yongseok Shin
 with Yongseok Shin and Donghoon Lee
 \newline
 *NBER* w21724, 2017.
+
+## Other
+17. **EEA Professional Climate Survey Report**
+\newline\null\hfill 
+with Massimo Morelli, Marvin Pappalettera, Dario Sansone and Sulin Sardroschau
+\newline
+*arXiv* [(link)](https://arxiv.org/abs/2508.04302), 2025.
+\newline
+*- featured column in*
+[VoxEU](https://cepr.org/voxeu/columns/eea-minorities-economics-professional-climate-survey-summary)
+
+
 
 # AWARDS AND GRANTS
 - Best Teacher of a Compulsory Module (SEF QMUL)
@@ -249,12 +267,15 @@ with Yongseok Shin and Donghoon Lee
 \hfill 1999-2000
 
 # PROFESSIONAL VISITS
+- Seoul National University
+\newline\null\hfill
+Sep 2024-Aug 2025, Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
+- Keio University
+\hfill
+Oct 2024
 - Washington University in St. Louis
 \newline\null\hfill
 Apr 2018/2020, June/July 2017, Sep 2016, Aug 2015, Aug 2012
-- Seoul National University
-\hfill
-Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 - McGill University
 \hfill Apr 2019
 - Bank of Portugal
@@ -284,11 +305,20 @@ Jul-Aug 2019, Jul 2018, Aug 2017, Jun/Aug 2016, Aug 2011
 
 
 # INVITED SEMINAR PRESENTATIONS
+- **2026**: 
+University of Cambridge, Bank of Slovenia
+- **2025**: 
+<!-- ***Mar*** -->
+CUNEF
 - **2024**: 
-<!-- ***Jan*** -->
+<!-- ***Nov*** -->
+University of Hong Kong,
+<!-- ***Oct*** -->
+Chinese University of Hong Kong,
+<!-- ***Jun*** -->
 University of Regensburg,
-<!-- ***Jan*** -->
-University of Surrey,
+<!-- ***Mar*** -->
+University of Sussex,
 <!-- ***Jan*** -->
 University of Konstanz
 - **2023**: 
@@ -406,9 +436,14 @@ Carlos III Madrid
 
 # CONFERENCES
 ## Presentations
-- **2024**:
+- **2025**:
 <!-- ***Mar*** -->
-RES (*Queens Univeristy Belfast*)
+ES World Congress (*Seoul, invited*)
+- **2024**:
+<!-- ***Dec*** -->
+ESWM Australasia (*Monash University, Melbourne*)
+<!-- ***Mar*** -->
+RES (*Queens University Belfast*)
 - **2023**:
 <!-- ***Dec*** -->
 ESWM Europe (*Manchester*), PHBS Macro and Finance (*Shenzen, invited*),
@@ -531,11 +566,16 @@ SAET (*online, invited*)
  SSSA (*Houston*), MEA (*Evanston*)
 
 ## Discussions
+- **2024**:
+<!-- ***July*** -->
+Determinants and Consequences of Labor Market Mobility (*Konstanz*),
+<!-- ***June*** -->
+ QMUL Ph.D. Conference
 - **2023**:
 <!-- ***October*** -->
 Frankfurt-Mannheim Macro Workshop,
 <!-- ***May*** -->
- QMUL Ph.D. Workhop
+ QMUL Ph.D. Conference
 - **2022**:
 <!-- ***May*** -->
 PHBS Macro and Finance (*Oxford*)
@@ -553,7 +593,7 @@ JEDC Covid-19,
 <!-- ***Nov*** -->
  CEPR MG,
 <!-- ***May*** -->
- QMUL Ph.D. Workhop,
+ QMUL Ph.D. Conference,
 <!-- ***Jan*** -->
  AEA (*Atlanta*)
 - **2018**:
@@ -588,19 +628,19 @@ CEPR ESSIM (*Tarragona*)
 - QMUL Mres
 
 ## EEA Minorities in Economics
-- Founding member, including launch of climate survey
+- Founding member (2021-2024), including launch of climate survey
 
 ## Journal Referee:
-- QJE, EJ, Macroeconomic Dynamics, JPE: Macro, Economica, IER, JEEA, EER, PNAS, Journal of Labor Research, Economic Modelling, JPubE, AER: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, Review of Economic Dynamics, ReStud, AEJ: Macroeconomics, Quantitative Economics, Labour Economics, Journal of Development Economics, Economic Theory, JET, AER, Journal of Human Captial, Econometrica
+- Review of Development Economics, Scandinavian Journal of Economics, Review of Economic Dynamics, AEJ: Macro, QJE, EJ, Macroeconomic Dynamics, JPE: Macro, Economica, IER, JEEA, EER, PNAS, Journal of Labor Research, Economic Modelling, JPubE, AER: Insights, Research Policy, Journal of Contemporary Asia, CESifo, Review of Income and Wealth, ReStud, Quantitative Economics, Labour Economics, Journal of Development Economics, Economic Theory, JET, AER, Journal of Human Captial, Econometrica
 
 ## Grant Referee:
-- SNSF, ISRF, SSHRC, Leverhulme
+- ERC, SNSF, ISRF, SSHRC, Leverhulme
 
 ## Conference & Workshop Organiziation:
+- KAEA Job Market Conference, *Panelist*
+\hfill 2022-2024
 - ES European Winter Meeting, *Program Committee Member*
 \hfill Manchester 2023
-- KAEA Job Market Conference, *Panelist*
-\hfill 2022-2023
 - KAEA Macro VSS, *Co-Organizer*
 \hfill 2022-2023
 - E1Macro: QM-QM, *Co-Organizer*
@@ -633,22 +673,21 @@ CEPR ESSIM (*Tarragona*)
 
 ### Queen Mary University of London
 ## Supervision
-- Evgeniia Lambranaki (*Ph.D. expected 2027*)
-- Chiara Bernardi (*Ph.D. expected 2024*)
-- Paula Cesana (*Ph.D. expected 2024*)
-- Giacomo Carlini (*Ph.D. expected 2024*, secondary advisor)
+- Chiara Bernardi (*Ph.D. expected 2025*)
+- Paula Cesana (*Ph.D. expected 2025*)
+- Giacomo Carlini (*Bank of Slovakia, 2025*)
 - Ioannis Papadakis (*Postdoc, University of Sussex, 2023*, secondary advisor)
 - Iacopo Varotto (*Bank of Spain, 2022*, committee member)
 <!-- ***12.5.2022*** -->
-- 5 BSc, 5 MSc theses supervised
+- 6 BSc, 5 MSc theses supervised
 
 ## Courses Taught
+- Economics of Inequality (*Professional Masters*) 
+\hfill Spring 2022-2026
+- Economics of Inequality (*BA*) 
+\hfill Fall 2022/2023/2025
 - Advanced Macroeconomics (*MRes*) 
 \hfill Fall 2018-2023
-- Economics of Inequality (*BA*) 
-\hfill Fall 2022/2023
-- Economics of Inequality (*Professional Masters*) 
-\hfill Spring 2022-2024
 - Macroeconomics II (*MSc*) 
 \hfill Spring 2022
 - Macroeconomics I (*BA*) 

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "German Reunification"
+subtitle: with <a href="https://sites.google.com/site/dauthecon/">Wolfgang Dauth</a>, <a href="https://sebastian-findeisen.com/">Sebastian Findeisen</a>, <a href="https://sites.google.com/view/tommaso-porzio/home">Tommaso Porzio</a>
 description: What happened in East Germany after reunification?
 img: /assets/img/berlin_vir_small.jpg
 importance: 1
 ---
 
-[Wolfgang Dauth](https://sites.google.com/site/dauthecon/){:target="\_blank"}, [Sebastian Findeisen](https://sebastian-findeisen.com/){:target="\_blank"}, [Tommaso Porzio](https://sites.google.com/view/tommaso-porzio/home){:target="\_blank"} and I have been cranking out German social security records to understand the transformation of the East German labor market. Despite two decades of stagnation, wage growth in the first few years after reunification was spectacular:
+We have been cranking out German social security records to understand the transformation of the East German labor market. Despite two decades of stagnation, wage growth in the first few years after reunification was spectacular:
 
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">

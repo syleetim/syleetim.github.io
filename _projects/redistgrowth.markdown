@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Redistribution and Growth
-description: [coming soon]
+title: UBC from SWF
+subtitle: with <a href="https://www.a-gaillard.com/">Alex Gaillard</a>
+description: A utopian redistribution policy?
 img:
 redirect:
-importance: 3
+importance: 2
 ---
 
-with [Alex Gaillard](https://www.a-gaillard.com/){:target="\_blank"}.
+Theoretically in a simple model and quantitatively in an extended model,
+we argue that innovative redistribution policies can also promote growth and welfare,
+even in the long-run.

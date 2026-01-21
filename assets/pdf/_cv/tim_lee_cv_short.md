@@ -36,13 +36,13 @@ urlcolor: blue
 
 # ACADEMIC EMPLOYMENT AND AFFILIATIONS
 
-## Seoul National University
- - Visiting Professor
- \hfill Sep 2024-
-
 ## Queen Mary University of London (QMUL)
  - Reader in Economics 
  \hfill Aug 2018-
+
+## Seoul National University
+ - Visiting Professor
+ \hfill Sep 2024-Aug 2025
 
 ## Toulouse School of Economics (TSE)
  - Research Associate

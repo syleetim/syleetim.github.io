@@ -22,6 +22,11 @@ nav: true
         {% endif %}
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          {% if project.subtitle %}
+            <p class="card-text">
+                <span markdown="0">{{ project.subtitle }}</span>
+            </p>
+          {% endif %}
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
