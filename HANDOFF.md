@@ -8,5 +8,9 @@
   GitHub homepage after three seconds.
 - All local CV files are preserved; only the public CV PDF is tracked.
 
+Latest content changes: added bureaucracy; expanded project descriptions;
+updated the Zsófia title and paper abstracts/PDFs/slides; placed Korea before
+gender violence in the cards.
+
 Next action: on x1yoga, open the live homepage and visually review the pages.
 No outstanding edits or deployments.
