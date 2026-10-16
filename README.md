@@ -3,6 +3,8 @@
 Quarto sources for <https://syleetim.github.io>, published from
 <https://github.com/syleetim/syleetim.github.io>.
 
+See [HANDOFF.md](HANDOFF.md) for current state and the next action.
+
 Edit the `.qmd` pages and `papers.bib`, then run `quarto render` to preview the
 site. Pushing `main` renders and deploys it through GitHub Actions. Generated
 `_site/` and `.quarto/` directories are ignored.
