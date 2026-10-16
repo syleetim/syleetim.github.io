@@ -8,9 +8,10 @@
   GitHub homepage after three seconds.
 - All local CV files are preserved; only the public CV PDF is tracked.
 
-Latest content changes: added bureaucracy; expanded project descriptions;
-updated the Zsófia title and paper abstracts/PDFs/slides; placed Korea before
-gender violence in the cards.
+Latest content changes (16 Oct 2026): Papers PDF replaced with the current
+100-page `mpsc/paper/leeshin_mpsc_resubmit.pdf` (SHA-256 `018d8ebd11d305e49c1d7d4b84a3bc66a30c93afd469899704a52e43a0ac227d`).
+CV: renamed the Shin working paper and placed it first, moved Korea last,
+and fixed the Cambridge comma. Local R Markdown compacted without changing
+rendered pages. The same updated CV is on Google Drive, with its link preserved.
 
-Next action: on x1yoga, open the live homepage and visually review the pages.
-No outstanding edits or deployments.
+Next action: visually review the live Papers and CV pages after deployment.
