@@ -1,0 +1,17 @@
+<footer style="text-align:right; margin-top:2rem; font-size:0.9em; color:#888;">
+  <span id="last-updated"></span>
+</footer>
+
+<script>
+  (function () {
+    var el = document.getElementById("last-updated");
+    if (!el) return;
+    var d = new Date(document.lastModified);
+    el.textContent = "Last updated: " + d.toLocaleDateString(undefined,{
+    	    year: "numeric",
+    		month: "short",
+		    day: "numeric"
+    });
+  })();
+</script>
+

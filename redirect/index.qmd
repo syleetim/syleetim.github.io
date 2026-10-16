@@ -1,0 +1,7 @@
+---
+title: My homepage has moved
+---
+
+Please visit **[syleetim.github.io](https://syleetim.github.io/)** for my current homepage.
+
+You will be redirected there in three seconds.

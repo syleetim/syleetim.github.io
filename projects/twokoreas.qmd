@@ -1,0 +1,13 @@
+---
+title: Two Koreas
+order: 6
+description: What will happen if North and South Korea reunify?
+author-title: "with"
+authors:
+  - "[Yongseok Shin](https://pages.wustl.edu/yshin)"
+image: ../images/korea_vir_small.jpg
+---
+
+Using available suggestive data, we calibrate the North Korean economy and simulate
+potential paths for integration, assuming the South Korean government can have some
+control over migration and trade barriers.

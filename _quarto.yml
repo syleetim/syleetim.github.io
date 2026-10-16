@@ -1,0 +1,40 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
+    - "news/*.qmd"
+    - "!redirect/**"
+  pre-render:
+    - python3 scripts/render_research.py
+  resources:
+    - project_assets/**
+
+website:
+  title: Sang Yoon Tim Lee
+  site-url: https://syleetim.github.io
+  navbar:
+    title: "Sang Yoon <span class='timlee'>Tim Lee</span>"
+    right:
+      - text: about
+        href: index.qmd
+      - text: cv
+        href: cv.qmd
+      - text: in-progress
+        href: projects.qmd
+      - text: papers
+        href: research.qmd
+      - icon: envelope
+        text: email
+        href: "mailto:sylee.tim@qmul.ac.uk"
+
+format:
+  html:
+    css: styles.css
+    theme: cosmo
+    toc: false
+    page-footer:
+      right: |
+        <span id="last-updated"></span>
+    include-after-body:
+      - footer.html

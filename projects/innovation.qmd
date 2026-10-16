@@ -1,0 +1,17 @@
+---
+title: "The Anatomy of Technological Change: Tracing Technology through Tasks and Production Networks"
+order: 4
+description: Measuring technological change through workers' tasks and the connections between industries.
+author-title: "with"
+authors:
+  - "[Zsofia Barany](https://sites.google.com/site/zsofiabarany/)"
+image: ../images/chip.jpg
+---
+
+Technological change is often used to explain shifts in employment and wages, but technology itself is rarely observed directly. With Zsófia Bárány, I develop a framework for tracing technological change through the tasks people perform and the production networks connecting industries.
+
+An industry employs different occupations, each combining a bundle of tasks. Those tasks use workers' skills and physical capital, while industries buy intermediate inputs and investment goods from one another. An improvement in one part of this system can therefore affect labor demand and production elsewhere.
+
+We combine U.S. Census and American Community Survey data on employment and wages with O*NET task requirements and industry accounts. The framework accounts for workers' multiple skills and their sorting across occupations, helping distinguish changes in technology from changes in the workforce performing each task.
+
+The project aims to separate the roles of technology, skill supply, and network propagation in economic change. Its equilibrium counterfactuals will examine how the location of a technological improvement shapes its effects across occupations and industries.

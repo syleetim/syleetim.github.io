@@ -1,0 +1,302 @@
+/* =========================================================
+   ROOT + VARIABLES
+   ========================================================= */
+:root {
+  --accent: #003A8F;
+  --accent-light: #5b8fd8;
+  --text: #1f2933;
+}
+
+/* =========================================================
+   BASE
+   ========================================================= */
+.reveal {
+  font-family: "Inter", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-size: 26px;
+  color: var(--text);
+  background: linear-gradient(
+    white,
+    rgb(182, 196, 207)
+  );
+}
+
+/* =========================================================
+   HEADINGS
+   ========================================================= */
+.reveal h1,
+.reveal h2 {
+  color: var(--accent);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.reveal h1 { font-size: 2.2em; }
+
+.reveal h2 {
+  font-size: 1.8em;
+  border-bottom: 3px solid #dbe4f3;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.6em;
+}
+
+.reveal h3 {
+  font-size: 1.4em;
+  font-weight: 600;
+}
+
+/* =========================================================
+   LIST SYSTEM (MINIMAL DRIFT)
+   ========================================================= */
+
+/* Marker styling */
+.reveal li::marker {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* Marker shapes by depth */
+.reveal ul { list-style-type: square; }
+.reveal ul ul {
+  list-style-type: none;
+}
+.reveal ul ul > li::marker {
+  content: "– ";
+}
+.reveal ul ul ul { list-style-type: disc; }
+
+/* =========================================================
+   NUMBERED LISTS
+   ========================================================= */
+/* Base ordered list */
+.reveal ol {
+  list-style: none;
+  counter-reset: ol-level-1;
+}
+
+/* Level 1 */
+.reveal ol > li {
+  counter-increment: ol-level-1;
+}
+.reveal ol > li::marker {
+  content: counter(ol-level-1) ". ";
+}
+
+/* Level 2 */
+.reveal ol ol {
+  list-style: none;
+  counter-reset: ol-level-2;
+}
+.reveal ol ol > li {
+  counter-increment: ol-level-2;
+}
+.reveal ol ol > li::marker {
+  content: counter(ol-level-2, lower-alpha) ". ";
+}
+
+/* Level 3 */
+.reveal ol ol ol {
+  list-style: none;
+  counter-reset: ol-level-3;
+}
+.reveal ol ol ol > li {
+  counter-increment: ol-level-3;
+}
+.reveal ol ol ol > li::marker {
+  content: counter(ol-level-3) ". ";
+}
+
+/* =========================================================
+   CODE
+   ========================================================= */
+.reveal pre code {
+  font-size: 0.75em;
+  line-height: 1.4;
+  padding: 1em;
+  border-radius: 8px;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+.reveal code {
+  background: #e0e7ff;
+  color: #1e3a8a;
+  padding: 0.1em 0.3em;
+  border-radius: 4px;
+}
+
+/* =========================================================
+   MATH
+   ========================================================= */
+.reveal mjx-container {
+  margin: 0.4em 0 !important;
+}
+
+/* =========================================================
+   FIGURES
+   ========================================================= */
+.reveal .slides section p:has(> img:only-child),
+.reveal .slides section p:has(> a > img:only-child),
+.reveal .slides section > img,
+.reveal .slides section figure,
+.reveal .slides section .quarto-layout-cell {
+  text-align: center;
+}
+
+.reveal .slides section p > img:only-child,
+.reveal .slides section p > a > img:only-child,
+.reveal .slides section > img,
+.reveal .slides section figure img {
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Hide the counter on top-level section divider slides. */
+html.hide-section-slide-number .slide-number {
+  display: none !important;
+}
+
+/* =========================================================
+   CALLOUTS
+   ========================================================= */
+.reveal .callout {
+  border-left: 6px solid var(--accent);
+  background: #eef2ff;
+  padding: 0.6em 0.8em;
+  margin: 0.8em 0;
+  border-radius: 6px;
+}
+
+/* =========================================================
+   FONT SIZE HELPERS
+   ========================================================= */
+.small   { font-size: 0.85em; }
+.smaller { font-size: 0.75em; }
+.tiny    { font-size: 0.65em; }
+
+/* ================================
+   TOP NAV — HIDDEN UNLESS ACTIVATED
+   ================================ */
+/* ================================
+   TOP NAV — MINIMAL, CORRECT
+   ================================ */
+
+.top-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 44px;
+  z-index: 1000;
+
+  background: linear-gradient(to right, #003A8F, #002855);
+  display: flex;
+  align-items: center;
+  gap: 3em;
+  padding: 0 2em;
+
+  /* hidden by default */
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+/* Reveal only when directly hovered or focused */
+.top-nav:hover,
+.top-nav:focus-within {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Links */
+.top-nav a {
+  color: #dbe4f3;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1em;
+  pointer-events: auto;
+}
+
+.top-nav a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+/* Match slide font */
+.top-nav,
+.top-nav a {
+  font-family: "Inter", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+}
+
+
+
+/* =========================================================
+   POINTER EVENTS TWEAKS
+   ========================================================= */
+/* Disable pointer events on background elements to avoid interference */  
+
+.reveal::before,
+.reveal::after { pointer-events: none !important; }
+
+.reveal .slides,
+.reveal .slides section { pointer-events: auto !important; }
+
+/* --- ARROWS: big + correct orientation --- */
+.reveal .controls { color: var(--accent); }
+
+.reveal .controls .controls-arrow {
+  transform: scale(3) !important;
+  rotate: 0deg !important;
+}
+
+/* Rotate the right control container, not the SVG */
+.reveal .controls .navigate-right {
+  transform: translateY(-50%) rotate(180deg) !important;
+}
+.reveal .controls .navigate-left {
+  transform: translateY(-50%) !important;
+}
+
+/* =========================================================
+   CENTERED IMAGES
+   ========================================================= */
+.reveal img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.reveal figcaption {
+  font-size: 0.85em;
+  line-height: 1.15;
+  margin-top: 0.25em;
+}
+
+/* SMALL TWEAKS */
+.reveal strong,
+.reveal em {
+  font-weight: 700;
+  color: var(--accent);
+}
+/* Do NOT affect code */
+.reveal code strong,
+.reveal code em,
+.reveal pre strong,
+.reveal pre em {
+  color: inherit;
+  font-weight: inherit;
+}
+
+/* THEOREM BOX */
+.reveal .theorem {
+  border-left: 6px solid var(--accent);
+  background: #eef2ff;
+  padding: 0.8em 1em;
+  margin: 0.8em 0;
+  border-radius: 8px;
+}
+
+/* Theorem title */
+.reveal .theorem strong {
+  color: var(--accent);
+  font-weight: 700;
+}

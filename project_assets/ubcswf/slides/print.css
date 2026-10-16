@@ -1,0 +1,20 @@
+@media print {
+
+  /* Remove printer/page margins that clip list markers */
+  @page {
+    margin: 0;
+  }
+
+  html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    zoom: 0.9; /* keep your global shrink */
+  }
+
+  /* Add safe padding INSIDE the printable area */
+  .reveal {
+    padding-left: 1.2cm !important;
+    box-sizing: border-box;
+  }
+}
+

@@ -1,0 +1,16 @@
+project:
+  type: website
+  render:
+    - index.qmd
+
+website:
+  title: Sang Yoon Tim Lee
+
+format:
+  html:
+    theme: false
+    minimal: true
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="3; url=https://syleetim.github.io/">
+        <link rel="canonical" href="https://syleetim.github.io/">

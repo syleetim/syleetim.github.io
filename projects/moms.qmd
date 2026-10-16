@@ -1,0 +1,18 @@
+---
+title: SAHMs' Contribution to Economic Development
+order: 3
+description: Maternal investment, human capital, and family choices in a rapidly changing economy.
+author-title: "with"
+authors:
+  - "[Minsu Chang](http://minsuchang.com/)"
+  - "[Wookun Kim](https://www.wookunkim.com/)"
+image: ../images/moms.png
+---
+
+How much do educated stay-at-home mothers contribute to economic development through their children's human capital? Market earnings capture only one return to education. Mothers' time at home can also support the next generation's learning and skills, while working provides income to finance schooling, childcare, and other investments.
+
+Using South Korea as the main empirical setting, we study these competing uses of maternal education and time. Our framework connects mothers' employment choices and investment in children to the transmission of human capital across generations. The goal is to assess the contribution of home inputs alongside the earnings and purchased inputs available through market work.
+
+Rapid development also changes the conditions under which families make these choices. An arrangement suited to the parental generation may become difficult to sustain as women's education and market opportunities rise. Expectations about maternal care can adjust more slowly than the opportunity cost of providing it.
+
+We investigate how this gap between inherited family arrangements and current economic conditions shapes maternal employment, fertility, and investment in children. The two questions are linked: family arrangements that support human-capital formation may themselves come under pressure as the economy develops.

@@ -1,0 +1,9 @@
+/.quarto/
+/_site/
+/redirect/_site/
+/redirect/.quarto/
+/_includes/research-content.html
+__pycache__/
+**/*.quarto_ipynb
+/pdfs/cv/*
+!/pdfs/cv/tim_lee_cv.pdf

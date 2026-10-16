@@ -1,0 +1,14 @@
+---
+title: Admin Creep on Aggregate Productivity
+order: 5
+description: Why doesn't less paperwork always mean more productive work?
+image: ../images/bureaucracy.jpg
+---
+
+A faster reporting system should free up time for productive work. But what if it also makes additional reports worth requesting? Cheaper documentation, verification, and approval can lead organizations to expand their requirements, absorbing some of the time that new technology was supposed to save.
+
+This project asks how much of an administrative technology's productivity gain survives when organizations change their procedures. The distinction is between making a given process faster and allowing the process itself to adjust. Administrative requirements can provide valuable checks and coordination, while also using the time of researchers, engineers, and other core workers alongside dedicated support staff.
+
+We develop a model in which an administrative unit chooses requirements to ensure organizational validity, while management sets limits and conducts costly reviews. The people setting requirements may not fully account for the production time they consume elsewhere. Even when management chooses its oversight optimally, dispersed information and costly review can leave room for administrative expansion.
+
+The empirical work combines U.S. and UK occupational and worker surveys with evidence from higher education and organizational workflows. Falling clerical employment need not imply less administration: some work may shift into other occupations. An equilibrium model connects these resource costs to occupational choice, capital, and aggregate productivity. The aim is to distinguish useful verification from costly expansion and assess how better governance changes the return to administrative technology.

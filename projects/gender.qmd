@@ -1,0 +1,12 @@
+---
+title: Gender-based Violence and the Evolution of Gender Attitudes
+order: 7
+description: Adolescent violence in Malawi.
+author-title: "with"
+authors:
+  - Ezgi Kurt
+  - "[Anna Raute](https://annaraute.wordpress.com/)"
+image: ../images/msas.jpg
+---
+
+We use unique data from Malawi to investigate how violent events shape girls' social norms.

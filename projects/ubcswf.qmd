@@ -1,0 +1,15 @@
+---
+title: UBC from SWF
+order: 2
+description: A utopian redistribution policy?
+author-title: "with"
+authors:
+  - "[Alexandre Gaillard](https://www.a-gaillard.com/)"
+image: ../images/capitalism.jpg
+---
+
+Theoretically in a simple model and quantitatively in an extended model,
+we argue that innovative redistribution policies can also promote growth and welfare,
+even in the long-run.
+
+[Preliminary Slides](../project_assets/ubcswf/slides/ubc_slides_running.html)

@@ -1,0 +1,7 @@
+---
+title: papers
+---
+
+<div class="research-page">
+{{< include _includes/research-content.html >}}
+</div>

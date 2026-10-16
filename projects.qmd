@@ -1,0 +1,12 @@
+---
+title: in-progress
+listing:
+  - id: projects
+    contents: projects
+    sort: "order asc"
+    fields: [image,title,authors,description]
+    field-display-names:
+      authors: " "
+    type: grid
+    grid-columns: 3
+---
