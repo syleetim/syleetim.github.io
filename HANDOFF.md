@@ -10,7 +10,7 @@
 
 Latest content changes (20 Oct 2026): Lee–Shin paper updated from
 `~/Dropbox/yongs/mpsc/paper/leeshin_mpsc_resubmit.pdf` (built 19 Oct;
-106 pages; title-page date 17 Oct 2026). Published as `pdfs/lee_shin.pdf`;
+106 pages; title-page date 17 Oct 2026). Published as `pdfs/mpsc.pdf`;
 title checked against the paper and abstract replaced with the latest text.
 Earlier-version NBER and slides links remain labelled. The updated CV is retained.
 PDF SHA-256: `7efa6774e63a1a26ec3f8ebbf028c94893dc57f1effcbfe18e380caadcfac508`.
