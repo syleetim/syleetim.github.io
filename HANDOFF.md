@@ -15,4 +15,8 @@ title checked against the paper and abstract replaced with the latest text.
 Earlier-version NBER and slides links remain labelled. The updated CV is retained.
 PDF SHA-256: `7efa6774e63a1a26ec3f8ebbf028c94893dc57f1effcbfe18e380caadcfac508`.
 
-Next action: no pending content edits; verify the GitHub Pages deployment.
+Deployment `a8c6ccc` succeeded; live title, abstract, PDF link and PDF checksum
+verified on 20 Oct 2026. Published from the isolated worktree
+`/tmp/homepage-lee-shin-20261020`; original checkout changes are preserved.
+
+Next action: none pending; await the next content update.
