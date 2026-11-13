@@ -1,22 +1,24 @@
 # Current state
 
-- Homepage: <https://syleetim.github.io/>. Deployed and verified live.
-- Working folder on hpz8 and x1yoga: `~/Sync/homepage/quarto_site`.
-- Repository: <https://github.com/syleetim/syleetim.github.io>, branch `main`.
-- Pushes to `main` automatically render and deploy through GitHub Actions.
-- <https://syleetim.quarto.pub/home> displays a move notice and redirects to the
-  GitHub homepage after three seconds.
-- All local CV files are preserved; only the public CV PDF is tracked.
+- Homepage: <https://syleetim.github.io/>; repository `syleetim/syleetim.github.io`, `main`. Pushes render/deploy through GitHub Actions.
+- Latest content: 13 November UBC slides, publication `c668724`; deployment succeeded and live HTML matched the local render at the final check. Existing URL: <https://syleetim.github.io/project_assets/ubcswf/slides/ubc_slides_running.html>.
+- Conclusion includes “Open economy, political economy…?”; Tim confirmed this was the requested update. Screen/print checks passed after disabling MathJax fast-preview; no PDF refreshed.
+- Working folder: `~/Sync/homepage/quarto_site`. Overlapping unrelated changes remain in its original checkout; publication used clean isolated worktree `/tmp/homepage-ubcswf-20261113`. Slide assets were also copied to the original requested folder.
 
-Latest content changes (20 Oct 2026): Lee–Shin paper updated from
-`~/Dropbox/yongs/mpsc/paper/leeshin_mpsc_resubmit.pdf` (built 19 Oct;
-106 pages; title-page date 17 Oct 2026). Published as `pdfs/mpsc.pdf`;
-title checked against the paper and abstract replaced with the latest text.
-Earlier-version NBER and slides links remain labelled. The updated CV is retained.
-PDF SHA-256: `7efa6774e63a1a26ec3f8ebbf028c94893dc57f1effcbfe18e380caadcfac508`.
+## Completed and superseded
 
-Deployment `a8c6ccc` succeeded; live title, abstract, PDF link and PDF checksum
-verified on 20 Oct 2026. Published from the isolated worktree
-`/tmp/homepage-lee-shin-20261020`; original checkout changes are preserved.
+- `c668724` supersedes slide publications `19dae16`, `3c34b73` and `fc21cab`.
+- Previous Lee–Shin update remains live as `pdfs/mpsc.pdf`: 106 pages, title-page date 17 October 2026; SHA256 `7efa6774e63a1a26ec3f8ebbf028c94893dc57f1effcbfe18e380caadcfac508`. Title/abstract and CV updates retained; earlier NBER/slides links remain labelled.
+- <https://syleetim.quarto.pub/home> remains the three-second move redirect. Local CV files preserved; only the public CV PDF is tracked.
 
-Next action: none pending; await the next content update.
+## Tim decides
+
+None.
+
+## Ready for execution / acceptance and stop
+
+No pending publication; await new author edits. For requested UBC updates, use `ubc_slides_running.qmd` in `~/QMUL Dropbox/Tim Lee/ubc/ubc_slides`; its README owns author choices and scientific limitations. Render successfully with Quarto cache access before copying HTML, referenced figures/styles and complete runtime into `project_assets/ubcswf/slides`; preserve the existing URL. Synchronize a clean isolated checkout when original local changes overlap remote history; preserve those changes. No new numerical work authorized.
+
+## Source checkpoint
+
+Checked 13 November 2026: deployed content `c668724`; HTML SHA256 `79f85ab9b59a7e452a3627e2b659d3fb42cca1f2704393861681ba04c708cde3`. Research source SHA256 `fe749a09599d2df308801053499f1bd4c90dd562a689b1e0c9adb8693a5dda69` (dirty research checkout; not a committed source release). Handoff-only commits after this checkpoint do not change slide content.
