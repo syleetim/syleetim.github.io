@@ -1,0 +1,52 @@
+/* Running deck only: retain the existing screen design and print each slide once. */
+.reveal .figure-key { text-align: center; color: var(--accent); font-size: .73em; }
+.reveal .vintage { font-size: .58em; color: #45515d; margin-top: .8em; }
+.reveal .slides section > ul, .reveal .slides section > ol { margin-bottom: .5em; }
+.reveal .columns img { margin-top: .1em; margin-bottom: .2em; }
+.reveal .slides section p, .reveal .slides section li { line-height: 1.25; }
+.reveal .slides section table { font-size: .76em; }
+@media print {
+  @page { margin: 0; }
+  html, body { margin: 0 !important; padding: 0 !important; }
+  .reveal { background: linear-gradient(white, rgb(182, 196, 207)); }
+  .reveal .slides .pdf-page { background: linear-gradient(white, rgb(182, 196, 207)) !important; }
+  .top-nav, .reveal .controls, .reveal .progress { display: none !important; }
+}
+
+/* Speaker-controlled results sequence; retain the deck's established palette. */
+.reveal .result-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin: 1em 0; }
+.reveal .result-card { border-top: 4px solid var(--accent); background: rgba(255,255,255,.55); padding: .6em; }
+.reveal .result-card h3 { margin: .1em 0 .5em; }
+.reveal .result-card p { font-size: .88em; }
+.reveal .policy-chart-stack { width: 100%; }
+.reveal .policy-chart-stack p { width: 100%; margin: 0; }
+.reveal .transition-story { display: grid; grid-template-columns: repeat(4, 1fr); gap: .65em; margin: 1em 0; }
+.reveal .transition-stage { border-top: 4px solid var(--accent); padding: .5em; background: rgba(255,255,255,.6); }
+.reveal .transition-stage h3 { font-size: 1em; margin: .25em 0 .7em; }
+.reveal .transition-stage p { font-size: .8em; }
+@media print { .reveal .fragment { opacity: 1 !important; visibility: visible !important; } }
+
+/* Compact, right-aligned navigation buttons, including print output. */
+.reveal .slide-links { text-align: right; font-size: .85em; margin-top: .65em; }
+.reveal .slide-links p { display: flex; justify-content: flex-end; flex-wrap: wrap; gap: .25em .75em; margin: 0; }
+.reveal .slide-links a { display: inline-block; white-space: nowrap; text-decoration: none; padding: .12em .08em; }
+.reveal .slide-links a::before, .top-nav a::before { content: "["; margin-right: .16em; }
+.reveal .slide-links a::after, .top-nav a::after { content: "]"; margin-left: .16em; }
+.reveal .slide-links a:hover, .reveal .slide-links a:focus-visible { text-decoration: underline; background: rgba(255,255,255,.55); }
+.top-nav { justify-content: flex-end; box-sizing: border-box; gap: 1.2em; opacity: 1; pointer-events: auto; }
+
+.reveal #results-preview .result-cards { margin: .6em 0; }
+.reveal #results-preview .transition-summary { font-size: .8em; }
+.reveal #results-preview > ul { font-size: .85em; margin-top: .25em; margin-bottom: .35em; }
+.reveal #results-preview li { margin-top: .15em; margin-bottom: .15em; }
+.reveal #results-preview > p { margin: .4em 0; }
+.reveal #results-preview .result-card { font-size: .85em; padding: .5em; }
+.reveal #results-preview .result-card h3 { font-size: 1.15em; margin-bottom: .4em; }
+.reveal #results-preview .result-card p { margin: .4em 0; }
+.reveal #results-preview .transition-summary p { margin: .4em 0; }
+
+/* Roomier policy comparison table */
+.reveal #counterfactual-design table { width: 100%; }
+.reveal #counterfactual-design table th,
+.reveal #counterfactual-design table td { padding: .50em .55em; }
+.reveal #counterfactual-design .policy-units { font-size: .58em; margin: .65em 0 1em; }

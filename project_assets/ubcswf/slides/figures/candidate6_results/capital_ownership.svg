@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='864.00pt' height='367.20pt' viewBox='0 0 864.00 367.20'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw4NjQuMDB8MC4wMHwzNjcuMjA='>
+    <rect x='0.00' y='0.00' width='864.00' height='367.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwzNjcuMjA=)'>
+<rect x='0.00' y='0.00' width='864.00' height='367.20' style='stroke-width: 1.94; stroke: none;' />
+</g>
+<defs>
+  <clipPath id='cpNjMuNDB8ODQ0LjA3fDk1LjM4fDMzMy4wNA=='>
+    <rect x='63.40' y='95.38' width='780.68' height='237.67' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNjMuNDB8ODQ0LjA3fDk1LjM4fDMzMy4wNA==)'>
+<rect x='63.40' y='95.38' width='780.68' height='237.67' style='stroke-width: 1.94; stroke: none;' />
+<polyline points='63.40,290.77 844.07,290.77 ' style='stroke-width: 1.94; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='63.40,237.91 844.07,237.91 ' style='stroke-width: 1.94; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='63.40,185.06 844.07,185.06 ' style='stroke-width: 1.94; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='63.40,132.21 844.07,132.21 ' style='stroke-width: 1.94; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='209.77,333.04 209.77,95.38 ' style='stroke-width: 1.94; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='453.74,333.04 453.74,95.38 ' style='stroke-width: 1.94; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='697.70,333.04 697.70,95.38 ' style='stroke-width: 1.94; stroke: #EBEBEB; stroke-linecap: butt;' />
+<line x1='63.40' y1='290.77' x2='844.07' y2='290.77' style='stroke-width: 0.85; stroke: #738294; stroke-linecap: butt;' />
+<rect x='116.25' y='237.27' width='56.92' height='53.49' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #003A8F;' />
+<rect x='181.31' y='290.77' width='56.92' height='0.00' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #168A85;' />
+<rect x='246.37' y='244.15' width='56.92' height='46.61' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8096AC;' />
+<rect x='360.22' y='193.77' width='56.92' height='96.99' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #003A8F;' />
+<rect x='425.27' y='130.59' width='56.92' height='160.18' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #168A85;' />
+<rect x='490.33' y='290.77' width='56.92' height='15.87' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8096AC;' />
+<rect x='604.18' y='140.28' width='56.92' height='150.49' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #003A8F;' />
+<rect x='669.24' y='130.59' width='56.92' height='160.18' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #168A85;' />
+<rect x='734.29' y='260.02' width='56.92' height='30.74' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8096AC;' />
+<text x='144.72' y='232.77' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+2.53</text>
+<text x='209.77' y='286.27' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+0.00</text>
+<text x='274.83' y='239.66' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+2.20</text>
+<text x='388.68' y='189.28' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+4.59</text>
+<text x='453.74' y='126.09' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+7.58</text>
+<text x='518.79' y='319.23' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='29.84px' lengthAdjust='spacingAndGlyphs'>-0.75</text>
+<text x='632.64' y='135.78' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+7.12</text>
+<text x='697.70' y='126.09' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+7.58</text>
+<text x='762.75' y='255.53' text-anchor='middle' style='font-size: 13.09px; font-family: "Liberation Sans";' textLength='33.12px' lengthAdjust='spacingAndGlyphs'>+1.45</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwzNjcuMjA=)'>
+<text x='54.43' y='296.27' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>0.0</text>
+<text x='54.43' y='243.42' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>2.5</text>
+<text x='54.43' y='190.56' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>5.0</text>
+<text x='54.43' y='137.71' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>7.5</text>
+<text x='209.77' y='353.71' text-anchor='middle' style='font-size: 17.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='100.17px' lengthAdjust='spacingAndGlyphs'>Public capital</text>
+<text x='453.74' y='353.71' text-anchor='middle' style='font-size: 17.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='106.77px' lengthAdjust='spacingAndGlyphs'>Private capital</text>
+<text x='697.70' y='353.71' text-anchor='middle' style='font-size: 17.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='89.77px' lengthAdjust='spacingAndGlyphs'>Total capital</text>
+<text transform='translate(23.66,214.21) rotate(-90)' text-anchor='middle' style='font-size: 17.00px;fill: #263545; font-family: "Liberation Sans";' textLength='240.61px' lengthAdjust='spacingAndGlyphs'>Change / initial annual GDP (%)</text>
+<rect x='334.85' y='49.50' width='14.70' height='14.70' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #003A8F;' />
+<rect x='445.79' y='49.50' width='14.70' height='14.70' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #168A85;' />
+<rect x='514.65' y='49.50' width='14.70' height='14.70' style='stroke-width: 1.94; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8096AC;' />
+<text x='360.80' y='62.01' style='font-size: 15.00px;fill: #263545; font-family: "Liberation Sans";' textLength='73.73px' lengthAdjust='spacingAndGlyphs'>UBC+SWF</text>
+<text x='471.74' y='62.01' style='font-size: 15.00px;fill: #263545; font-family: "Liberation Sans";' textLength='31.66px' lengthAdjust='spacingAndGlyphs'>UBC</text>
+<text x='540.60' y='62.01' style='font-size: 15.00px;fill: #263545; font-family: "Liberation Sans";' textLength='33.31px' lengthAdjust='spacingAndGlyphs'>SWF</text>
+<text x='63.40' y='22.96' style='font-size: 16.00px;fill: #263545; font-family: "Liberation Sans";' textLength='325.77px' lengthAdjust='spacingAndGlyphs'>Corporate sector: 92.9% of benchmark capital</text>
+</g>
+</g>
+</svg>
